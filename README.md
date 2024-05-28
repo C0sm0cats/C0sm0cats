@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3 align="center">A passionate Manjaro user from France</h3>
+<h3 align="center">A passionate Manjaro user</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=C0sm0cats&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" width="500" height="200">
