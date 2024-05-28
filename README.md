@@ -6,9 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=C0sm0cats&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" width="500" height="200">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0sm0cats&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="400" height="200">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=C0sm0cats&theme=vision-friendly-dark" alt="GitHub Streak Stats" width="500" height="200">
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=C0sm0cats&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
 
