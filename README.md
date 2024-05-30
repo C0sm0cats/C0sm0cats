@@ -1,6 +1,13 @@
-## Hi there 👋
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+SON;This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
 
-<h3 align="center">A passionate Manjaro user</h3>
+<div align="center">
+    <h2>🚀 About Me</h2>
+    <p>I'm a DevOps Engineer specializing in [Your Specialization]. Manjaro Linux is my playground, and Python is my magic tool. Let's create something awesome together!</p>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=C0sm0cats&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" width="500" height="200">
