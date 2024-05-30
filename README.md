@@ -5,7 +5,6 @@
 </div>
 
 <div align="center">
-    <h2>🚀 About Me</h2>
     <p>I'm a DevOps Engineer specializing in containerization and orchestration, proficient in scripting for automation. Manjaro Linux is my playground, and Python is my new magic tool. Let's create something awesome together!</p>
 </div>
 
