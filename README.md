@@ -14,8 +14,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=C0sm0cats&theme=vision-friendly-dark" alt="GitHub Streak Stats" width="500" height="200">
 </div>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Tools and OS I Have Used and Learned</h2>
 <p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="45" height="45"/>
