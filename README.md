@@ -25,7 +25,3 @@
 <div align="center">
   <br><img src="https://komarev.com/ghpvc/?username=C0sm0cats&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/C0sm0cats/C0sm0cats/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
