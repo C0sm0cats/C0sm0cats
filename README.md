@@ -25,3 +25,7 @@
 <div align="center">
   <br><img src="https://komarev.com/ghpvc/?username=C0sm0cats&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
+
+![GitHub top language](https://img.shields.io/github/languages/top/C0sm0cats/fabric)
+![GitHub last commit](https://img.shields.io/github/last-commit/C0sm0cats/fabric)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
