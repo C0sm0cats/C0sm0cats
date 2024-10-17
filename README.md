@@ -15,8 +15,10 @@
 ![Alt](https://repobeats.axiom.co/api/embed/eeac330c618bc8a6faaae72383473baa99024849.svg "Repobeats analytics image")
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C0sm0cats&theme=vision-friendly-dark" alt="GitHub Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=C0sm0cats&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
+
+[//]: # (  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C0sm0cats&theme=vision-friendly-dark" alt="GitHub Streak Stats">)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=C0sm0cats&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0sm0cats&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
 </div>
 
