@@ -1,8 +1,12 @@
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=535&lines=Hey..+I'm+C0sm0cats;This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
-</div>
+[//]: # (<div align="center">)
+
+[//]: # (    <h1>)
+
+[//]: # (        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=535&lines=Hey..+I'm+C0sm0cats;This+is..;..my+Github..;" alt="Typing SVG"/>)
+
+[//]: # (    </h1>)
+
+[//]: # (</div>)
 
 <div align="center">
     <p>I'm a DevOps Engineer specializing in containerization and orchestration, proficient in scripting for automation. Manjaro Linux is my playground, and Python is my new magic tool. Let's create something awesome together!</p>
@@ -14,8 +18,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=C0sm0cats&theme=vision-friendly-dark" alt="GitHub Streak Stats" width="500" height="200">
 </div>
 
-<h2> 🚀 &nbsp;Some Tools and OS I Have Used and Learned</h2>
-<p align="left">
+[//]: # (<h2> 🚀 &nbsp;Some Tools and OS I Have Used and Learned</h2>)
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/>
