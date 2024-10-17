@@ -29,3 +29,5 @@
 <div align="center">
   <br><img src="https://komarev.com/ghpvc/?username=C0sm0cats&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
+
+![Alt](https://repobeats.axiom.co/api/embed/eeac330c618bc8a6faaae72383473baa99024849.svg "Repobeats analytics image")
