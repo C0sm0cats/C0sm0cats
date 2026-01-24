@@ -9,7 +9,7 @@
 [//]: # (</div>)
 
 <div align="center">
-    <p>I'm a DevOps Engineer specializing in containerization and orchestration, proficient in scripting for automation. Manjaro Linux is my playground, and Python is my new magic tool. Let's create something awesome together!</p>
+    <p>I'm a DevOps Engineer specializing in containerization and orchestration, proficient in scripting for automation.</p>
 </div>
 
 ![Alt](https://repobeats.axiom.co/api/embed/eeac330c618bc8a6faaae72383473baa99024849.svg "Repobeats analytics image")
