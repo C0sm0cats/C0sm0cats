@@ -12,8 +12,6 @@
     <p>I'm a DevOps Engineer specializing in containerization and orchestration, proficient in scripting for automation.</p>
 </div>
 
-![Alt](https://repobeats.axiom.co/api/embed/eeac330c618bc8a6faaae72383473baa99024849.svg "Repobeats analytics image")
-
 <div align="center">
 
 [//]: # (  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C0sm0cats&theme=vision-friendly-dark" alt="GitHub Streak Stats">)
