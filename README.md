@@ -1,33 +1,39 @@
-[//]: # (<div align="center">)
+# C0sm0cats
 
-[//]: # (    <h1>)
+DevOps engineer building automation tools and desktop utilities for Linux and Windows.
 
-[//]: # (        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=535&lines=Hey..+I'm+C0sm0cats;This+is..;..my+Github..;" alt="Typing SVG"/>)
+I enjoy turning repetitive workflows into small, practical tools—with a focus on window management, automation, and reliable local-first software.
 
-[//]: # (    </h1>)
+## Featured projects
 
-[//]: # (</div>)
+### [SnapTess](https://github.com/C0sm0cats/SnapTess)
 
-<div align="center">
-    <p>I'm a DevOps Engineer specializing in containerization and orchestration, proficient in scripting for automation.</p>
-</div>
+Automatic window tiling for GNOME Wayland, with visual layouts, drag-to-swap, and independent spaces per display.
 
-<div align="center">
+`JavaScript` · `GNOME Shell` · `Wayland`
 
-[//]: # (  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C0sm0cats&theme=vision-friendly-dark" alt="GitHub Streak Stats">)
+### [SmartGrid](https://github.com/C0sm0cats/SmartGrid)
 
-[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=C0sm0cats&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">)
-[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0sm0cats&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark" alt="Top Languages">)
-</div>
+Dynamic tiling window manager for Windows, featuring drag-and-drop snapping, workspaces per monitor, global hotkeys, and a system tray UI.
 
-[//]: # (<h2> 🚀 &nbsp;Some Tools and OS I Have Used and Learned</h2>)
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="45" height="45"/>
-</p>
+`Python` · `Win32` · `DWM`
 
-<div align="center">
-  <br><img src="https://komarev.com/ghpvc/?username=C0sm0cats&style=for-the-badge&color=blue" alt="Profile Views"/>
-</div>
+### [GMAIL](https://github.com/C0sm0cats/GMAIL)
+
+Batch-exports labeled Gmail conversations to PDF while preserving attachments and inline images.
+
+`Python` · `Gmail API` · `Playwright`
+
+### [Hors Budget](https://github.com/C0sm0cats/hors-budget)
+
+A satirical 3D arcade game about life in a consulting firm, playable online and offline.
+
+`JavaScript` · `3D` · `PWA`
+
+## More tools
+
+- [GDRIVE](https://github.com/C0sm0cats/GDRIVE) — recursively downloads folders and files from Google Drive.
+
+## Stack
+
+`Linux` · `Docker` · `Python` · `JavaScript` · `Bash` · `GNOME` · `Playwright` · `GitHub Actions`
