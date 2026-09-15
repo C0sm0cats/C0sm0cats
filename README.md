@@ -9,7 +9,7 @@
 | 🪟 [SnapTess](https://github.com/C0sm0cats/SnapTess) | 🖥️ [SmartGrid](https://github.com/C0sm0cats/SmartGrid) |
 |---|---|
 | Automatic window tiling for GNOME Wayland, with visual layouts, drag-to-swap, and independent spaces per display.<br><br>`JavaScript` · `GNOME Shell` · `Wayland` | Dynamic tiling window manager for Windows, featuring drag-and-drop snapping, per-monitor workspaces, global hotkeys, and a system tray UI.<br><br>`Python` · `Win32` · `DWM` |
-| 📬 [GMAIL](https://github.com/C0sm0cats/GMAIL) | 🎮 [Hors Budget](https://github.com/C0sm0cats/hors-budget) |
+| <div align="center">📬 <a href="https://github.com/C0sm0cats/GMAIL"><strong>GMAIL</strong></a></div> | <div align="center">🎮 <a href="https://github.com/C0sm0cats/hors-budget"><strong>Hors Budget</strong></a></div> |
 | Batch-exports labeled Gmail conversations to PDF while preserving attachments and inline images.<br><br>`Python` · `Gmail API` · `Playwright` | A satirical 3D arcade game about life in a consulting firm, playable online and offline.<br><br>`JavaScript` · `3D` · `PWA` |
 
 ## More tools
