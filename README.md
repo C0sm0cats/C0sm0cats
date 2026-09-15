@@ -2,7 +2,7 @@
 
 DevOps engineer building automation tools and desktop utilities for Linux and Windows.
 
-I enjoy turning repetitive workflows into small, practical tools—with a focus on window management, automation, and reliable local-first software.
+My projects range from desktop window managers to email and cloud-storage automation.
 
 ## Featured projects
 
