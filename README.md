@@ -2,8 +2,6 @@
 
 DevOps engineer building automation tools and desktop utilities for Linux and Windows.
 
-My projects range from desktop window managers to email and cloud-storage automation.
-
 ## Featured projects
 
 ### [SnapTess](https://github.com/C0sm0cats/SnapTess)
