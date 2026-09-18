@@ -1,5 +1,3 @@
-<h1 align="center">C0sm0cats</h1>
-
 <p align="center">
   DevOps engineer building automation tools and desktop utilities for Linux and Windows.
 </p>
