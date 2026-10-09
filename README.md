@@ -11,9 +11,9 @@
 
 ## 💻 Terminal tools for Google Workspace
 
-| <div align="center">📬 <a href="https://github.com/C0sm0cats/GMAIL"><strong>GMAIL</strong></a></div> | <div align="center">📁 <a href="https://github.com/C0sm0cats/GDRIVE"><strong>GDRIVE</strong></a></div> |
+| <div align="center">📬 <a href="https://github.com/C0sm0cats/GMAIL"><strong>GMAIL</strong></a></div> | <div align="center">📁 <a href="https://github.com/C0sm0cats/GDRIVE"><strong>SaveGDrive</strong></a></div> |
 |---|---|
-| <a href="https://github.com/C0sm0cats/GMAIL"><img src="https://raw.githubusercontent.com/C0sm0cats/GMAIL/main/docs/screenshot.svg" alt="GMAIL terminal UI" width="100%"></a><br><br>**Gmail in your terminal.** Browse and triage Inbox, Sent, Spam and Trash (archive, star, undo), and save emails as PDFs with their attachments.<br><br>`Python` · `TUI` · `Gmail API` · `Playwright` | <a href="https://github.com/C0sm0cats/GDRIVE"><img src="https://raw.githubusercontent.com/C0sm0cats/GDRIVE/main/docs/screenshot.svg" alt="GDRIVE terminal UI" width="100%"></a><br><br>**Safe, read-only Google Drive sync.** Pick files in an interactive tree, preview every change, then sync with atomic writes, conflict protection and Docs/Sheets/Slides export.<br><br>`Python` · `TUI` · `Textual` · `Drive API` |
+| <a href="https://github.com/C0sm0cats/GMAIL"><img src="https://raw.githubusercontent.com/C0sm0cats/GMAIL/main/docs/screenshot.svg" alt="GMAIL terminal UI" width="100%"></a><br><br>**Gmail in your terminal.** Browse and triage Inbox, Sent, Spam and Trash (archive, star, undo), and save emails as PDFs with their attachments.<br><br>`Python` · `TUI` · `Gmail API` · `Playwright` | <a href="https://github.com/C0sm0cats/GDRIVE"><img src="https://raw.githubusercontent.com/C0sm0cats/GDRIVE/main/docs/screenshot.svg" alt="SaveGDrive terminal UI" width="100%"></a><br><br>**Two-way Google Drive sync in your terminal.** Pick folders across My Drive, shared items and shared drives, preview every change on both sides, then sync safely: conflicts kept, deletions to the trash, Docs/Sheets/Slides export.<br><br>`Python` · `TUI` · `Textual` · `Drive API` |
 
 ## 🎮 Side project
 
