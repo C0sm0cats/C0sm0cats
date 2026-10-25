@@ -29,9 +29,9 @@
 
 ## 🎮 Side project
 
-<a href="https://c0sm0cats.github.io/hors-budget/"><img src="https://raw.githubusercontent.com/C0sm0cats/hors-budget/main/docs/hors-budget-gameplay.png" alt="Hors Budget gameplay" width="420" align="right"></a>
+<a href="https://c0sm0cats.github.io/naorush/"><img src="https://raw.githubusercontent.com/C0sm0cats/naorush/main/docs/title.jpg" alt="NAO Rush title screen" width="420" align="right"></a>
 
-**[Hors Budget](https://github.com/C0sm0cats/hors-budget)** — a free 2D browser platformer satirising office life: dodge KPIs, beat the bosses, unlock the budget. Vanilla JavaScript + WebGL, works offline. **[▶️ Play now](https://c0sm0cats.github.io/hors-budget/)**
+**[NAO Rush](https://github.com/C0sm0cats/naorush)** — a 2D browser platformer set in Inetum's offices, Rick Dangerous / Prince of Persia style: cross five stages, convince the directors, get the raise envelope signed. WebGL2, no engine dependency, PC/tablet/mobile. **[▶️ Play now](https://c0sm0cats.github.io/naorush/)**
 
 <br clear="right">
 
