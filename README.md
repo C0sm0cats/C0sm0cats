@@ -27,6 +27,16 @@
 
 <br clear="right">
 
+## 📖 Writing
+
+<a href="https://c0sm0cats.github.io/the-source/en/"><img src="https://raw.githubusercontent.com/C0sm0cats/the-source/main/assets/figures/en-source-river.jpg" alt="The Source: strands of light flowing from a single origin" width="420" align="right"></a>
+
+**[The Source](https://github.com/C0sm0cats/the-source)** — *what if existing is how everything discovers itself?* A bilingual (FR/EN) vision of consciousness, infinity and return in thirty ideas, each with an interactive generative figure. Also as two illustrated books.
+
+**[📖 Read online](https://c0sm0cats.github.io/the-source/en/)** · [Lire en français](https://c0sm0cats.github.io/the-source/)
+
+<br clear="right">
+
 ## 🎮 Side project
 
 <a href="https://c0sm0cats.github.io/naorush/"><img src="https://raw.githubusercontent.com/C0sm0cats/naorush/main/docs/title.jpg" alt="NAO Rush title screen" width="420" align="right"></a>
