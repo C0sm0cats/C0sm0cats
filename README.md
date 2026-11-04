@@ -31,7 +31,7 @@
 
 <a href="https://c0sm0cats.github.io/the-source/en/"><img src="https://raw.githubusercontent.com/C0sm0cats/the-source/main/assets/hero.svg" alt="The Source: a burst of coloured light strands radiating from a single origin" width="420" align="right"></a>
 
-**[The Source](https://github.com/C0sm0cats/the-source)** — *what if existing is how everything discovers itself?* A bilingual (FR/EN) vision of consciousness, infinity and return in thirty ideas, each with an interactive generative figure. Also as two illustrated books.
+**[The Source](https://github.com/C0sm0cats/the-source)** — a bilingual (FR/EN) vision of consciousness, infinity and return in thirty ideas, each with an interactive generative figure. Also as two illustrated books.
 
 **[📖 Read online](https://c0sm0cats.github.io/the-source/en/)** · [Lire en français](https://c0sm0cats.github.io/the-source/)
 
