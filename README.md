@@ -1,54 +1,65 @@
-<p align="center">
-  <strong>DevOps engineer building open-source tiling window managers and terminal tools for Linux and Windows.</strong><br>
-  <sub>GNOME Shell · Wayland · Win32 · Python · TUI · Google APIs · AI coding agents</sub>
-</p>
+<a href="https://github.com/C0sm0cats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" alt="C0sm0cats — DevOps engineer building open-source tiling window managers and terminal tools for Linux and Windows" width="100%">
+  </picture>
+</a>
 
-## 🪟 Window management
+## ◢ Window management
 
-| <div align="center">🐧 <a href="https://github.com/C0sm0cats/SnapTess"><strong>SnapTess</strong></a></div> | <div align="center">🪟 <a href="https://github.com/C0sm0cats/SmartGrid"><strong>SmartGrid</strong></a></div> |
-|---|---|
-| <a href="https://github.com/C0sm0cats/SnapTess"><img src="https://raw.githubusercontent.com/C0sm0cats/SnapTess/main/docs/snaptess-overview-blurred.png" alt="SnapTess tiling windows on GNOME" width="100%"></a><br><br>Automatic window tiling for **GNOME 50 on Wayland**. Grid & split layouts, drag-to-snap, Layout Studio, linked tile resize, keyboard-driven focus and independent spaces per monitor.<br><br>`GNOME Shell extension` · `GJS` · `Wayland`<br><br>[⬇️ Latest release](https://github.com/C0sm0cats/SnapTess/releases/latest) | <a href="https://github.com/C0sm0cats/SmartGrid"><img src="https://raw.githubusercontent.com/C0sm0cats/SmartGrid/main/docs/smartgrid-overview.png" alt="SmartGrid tiling windows on Windows 11" width="100%"></a><br><br>Automatic tiling window manager for **Windows 10/11** — a FancyZones alternative. Layout studio, custom grids, snap & swap, virtual desktops, global hotkeys.<br><br>`Python` · `Qt` · `Win32`<br><br>[⬇️ Latest release](https://github.com/C0sm0cats/SmartGrid/releases/latest) |
+<table>
+<tr>
+<th width="50%">🐧 <a href="https://github.com/C0sm0cats/SnapTess"><strong>SnapTess</strong></a></th>
+<th width="50%">🪟 <a href="https://github.com/C0sm0cats/SmartGrid"><strong>SmartGrid</strong></a></th>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/C0sm0cats/SnapTess"><img src="https://raw.githubusercontent.com/C0sm0cats/SnapTess/main/docs/snaptess-overview-blurred.png" alt="SnapTess tiling windows on GNOME" width="100%"></a><br><br><img src="https://img.shields.io/github/v/release/C0sm0cats/SnapTess?style=flat-square&labelColor=0d1424&color=0e7490&label=release" alt="Latest release"> <img src="https://img.shields.io/github/last-commit/C0sm0cats/SnapTess?style=flat-square&labelColor=0d1424&color=0e7490&label=updated" alt="Last commit"><br><br>Automatic window tiling for <strong>GNOME 50 on Wayland</strong>. Grid &amp; split layouts, drag-to-snap, Layout Studio, linked tile resize, keyboard-driven focus and independent spaces per monitor.<br><br><code>GNOME Shell extension</code> · <code>GJS</code> · <code>Wayland</code><br><br><a href="https://github.com/C0sm0cats/SnapTess/releases/latest">⬇️ Latest release</a></td>
+<td width="50%" valign="top"><a href="https://github.com/C0sm0cats/SmartGrid"><img src="https://raw.githubusercontent.com/C0sm0cats/SmartGrid/main/docs/smartgrid-overview.png" alt="SmartGrid tiling windows on Windows 11" width="100%"></a><br><br><img src="https://img.shields.io/github/v/release/C0sm0cats/SmartGrid?style=flat-square&labelColor=0d1424&color=0e7490&label=release" alt="Latest release"> <img src="https://img.shields.io/github/last-commit/C0sm0cats/SmartGrid?style=flat-square&labelColor=0d1424&color=0e7490&label=updated" alt="Last commit"><br><br>Automatic tiling window manager for <strong>Windows 10/11</strong> — a FancyZones alternative. Layout studio, custom grids, snap &amp; swap, virtual desktops, global hotkeys.<br><br><code>Python</code> · <code>Qt</code> · <code>Win32</code><br><br><a href="https://github.com/C0sm0cats/SmartGrid/releases/latest">⬇️ Latest release</a></td>
+</tr>
+</table>
 
-## 💻 Terminal tools for Google Workspace
+## ◢ Terminal tools for Google Workspace
 
-| <div align="center">📬 <a href="https://github.com/C0sm0cats/GMAIL"><strong>GMAIL</strong></a></div> | <div align="center">📁 <a href="https://github.com/C0sm0cats/GDRIVE"><strong>GDRIVE</strong></a></div> |
-|---|---|
-| <a href="https://github.com/C0sm0cats/GMAIL"><img src="https://raw.githubusercontent.com/C0sm0cats/GMAIL/main/docs/screenshot.svg" alt="GMAIL terminal UI" width="100%"></a><br><br>**Gmail in your terminal.** Browse and triage Inbox, Sent, Spam and Trash (archive, star, undo), and save emails as PDFs with their attachments.<br><br>`Python` · `TUI` · `Gmail API` · `Playwright` | <a href="https://github.com/C0sm0cats/GDRIVE"><img src="https://raw.githubusercontent.com/C0sm0cats/GDRIVE/main/docs/screenshot.svg" alt="GDRIVE terminal UI" width="100%"></a><br><br>**Google Drive in your terminal.** Two-way sync of the folders you pick across My Drive, shared items and shared drives, preview every change on both sides, then sync safely: conflicts kept, deletions to the trash, Docs/Sheets/Slides export.<br><br>`Python` · `TUI` · `Textual` · `Drive API` |
+<table>
+<tr>
+<th width="50%">📬 <a href="https://github.com/C0sm0cats/GMAIL"><strong>GMAIL</strong></a></th>
+<th width="50%">📁 <a href="https://github.com/C0sm0cats/GDRIVE"><strong>GDRIVE</strong></a></th>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/C0sm0cats/GMAIL"><img src="https://raw.githubusercontent.com/C0sm0cats/GMAIL/main/docs/screenshot.svg" alt="GMAIL terminal UI" width="100%"></a><br><br><img src="https://img.shields.io/github/v/release/C0sm0cats/GMAIL?style=flat-square&labelColor=0d1424&color=6d28d9&label=release" alt="Latest release"> <img src="https://img.shields.io/github/last-commit/C0sm0cats/GMAIL?style=flat-square&labelColor=0d1424&color=6d28d9&label=updated" alt="Last commit"><br><br><strong>Gmail in your terminal.</strong> Browse and triage Inbox, Sent, Spam and Trash (archive, star, undo), and save emails as PDFs with their attachments.<br><br><code>Python</code> · <code>TUI</code> · <code>Gmail API</code> · <code>Playwright</code><br><br><a href="https://github.com/C0sm0cats/GMAIL/releases/latest">⬇️ Latest release</a></td>
+<td width="50%" valign="top"><a href="https://github.com/C0sm0cats/GDRIVE"><img src="https://raw.githubusercontent.com/C0sm0cats/GDRIVE/main/docs/screenshot.svg" alt="GDRIVE terminal UI" width="100%"></a><br><br><img src="https://img.shields.io/github/v/release/C0sm0cats/GDRIVE?style=flat-square&labelColor=0d1424&color=6d28d9&label=release" alt="Latest release"> <img src="https://img.shields.io/github/last-commit/C0sm0cats/GDRIVE?style=flat-square&labelColor=0d1424&color=6d28d9&label=updated" alt="Last commit"><br><br><strong>Google Drive in your terminal.</strong> Two-way sync of the folders you pick across My Drive, shared items and shared drives, preview every change on both sides, then sync safely: conflicts kept, deletions to the trash, Docs/Sheets/Slides export.<br><br><code>Python</code> · <code>TUI</code> · <code>Textual</code> · <code>Drive API</code><br><br><a href="https://github.com/C0sm0cats/GDRIVE/releases/latest">⬇️ Latest release</a></td>
+</tr>
+</table>
 
-## 🤖 AI coding agents
+## ◢ AI coding agents
 
-<a href="https://github.com/C0sm0cats/lethe"><img src="https://raw.githubusercontent.com/C0sm0cats/lethe/main/docs/demo.svg" alt="lethe picker listing Claude Code and Codex sessions" width="420" align="right"></a>
+<table>
+<tr>
+<td width="50%" valign="middle"><a href="https://github.com/C0sm0cats/lethe"><img src="https://raw.githubusercontent.com/C0sm0cats/lethe/main/docs/demo.svg" alt="lethe picker listing Claude Code and Codex sessions" width="100%"></a></td>
+<td width="50%" valign="middle"><h3>🤖 <a href="https://github.com/C0sm0cats/lethe"><strong>lethe</strong></a></h3><img src="https://img.shields.io/github/v/release/C0sm0cats/lethe?style=flat-square&labelColor=0d1424&color=a21caf&label=release" alt="Latest release"> <img src="https://img.shields.io/github/last-commit/C0sm0cats/lethe?style=flat-square&labelColor=0d1424&color=a21caf&label=updated" alt="Last commit"><br><br><strong>Browse, resume and forget your Claude Code and Codex sessions</strong> from one terminal picker. Live preview, resume in the original directory, bulk cleanup with undo; running sessions are never touched. Scriptable with <code>--json</code>, <code>--dry-run</code> and cron.<br><br><code>Bash</code> · <code>fzf</code> · <code>Claude Code</code> · <code>Codex</code><br><br><a href="https://github.com/C0sm0cats/lethe/releases/latest">⬇️ Latest release</a></td>
+</tr>
+</table>
 
-**[lethe](https://github.com/C0sm0cats/lethe)** — **browse, resume and forget your Claude Code and Codex sessions** from one terminal picker. Live preview, resume in the original directory, bulk cleanup with undo, and running sessions are never touched. Scriptable with `--json`, `--dry-run` and cron.
+## ◢ Writing
 
-`Bash` · `fzf` · `Claude Code` · `Codex`
+<table>
+<tr>
+<td width="50%" valign="middle"><h3>📖 <a href="https://github.com/C0sm0cats/the-source"><strong>The Source</strong></a></h3><img src="https://img.shields.io/github/last-commit/C0sm0cats/the-source?style=flat-square&labelColor=0d1424&color=a21caf&label=updated" alt="Last commit"><br><br>A bilingual (FR/EN) vision of <strong>consciousness, infinity and return</strong>, told one idea at a time, each with an interactive generative figure. Also as two illustrated books.<br><br><code>Generative art</code> · <code>FR / EN</code><br><br><strong><a href="https://c0sm0cats.github.io/the-source/en/">📖 Read online</a></strong> · <a href="https://c0sm0cats.github.io/the-source/">Lire en français</a></td>
+<td width="50%" valign="middle"><a href="https://c0sm0cats.github.io/the-source/en/"><img src="https://raw.githubusercontent.com/C0sm0cats/the-source/main/assets/hero.svg" alt="The Source: a burst of coloured light strands radiating from a single origin" width="100%"></a></td>
+</tr>
+</table>
 
-[⬇️ Latest release](https://github.com/C0sm0cats/lethe/releases/latest)
+## ◢ Side project
 
-<br clear="right">
+<table>
+<tr>
+<td width="50%" valign="middle"><a href="https://c0sm0cats.github.io/naorush/"><img src="https://raw.githubusercontent.com/C0sm0cats/naorush/main/docs/title.jpg" alt="NAO Rush title screen" width="100%"></a></td>
+<td width="50%" valign="middle"><h3>🎮 <a href="https://github.com/C0sm0cats/naorush"><strong>NAO Rush</strong></a></h3><img src="https://img.shields.io/github/last-commit/C0sm0cats/naorush?style=flat-square&labelColor=0d1424&color=047857&label=updated" alt="Last commit"><br><br>A <strong>2D browser platformer</strong> set in Inetum's offices, Rick Dangerous / Prince of Persia style: cross five stages, convince the directors, get the raise envelope signed. No engine dependency, PC/tablet/mobile.<br><br><code>JavaScript</code> · <code>WebGL2</code><br><br><strong><a href="https://c0sm0cats.github.io/naorush/">▶️ Play now</a></strong></td>
+</tr>
+</table>
 
-## 📖 Writing
+## ◢ Stack
 
-<a href="https://c0sm0cats.github.io/the-source/en/"><img src="https://raw.githubusercontent.com/C0sm0cats/the-source/main/assets/hero.svg" alt="The Source: a burst of coloured light strands radiating from a single origin" width="420" align="right"></a>
-
-**[The Source](https://github.com/C0sm0cats/the-source)** — a bilingual (FR/EN) vision of consciousness, infinity and return, told one idea at a time, each with an interactive generative figure. Also as two illustrated books.
-
-**[📖 Read online](https://c0sm0cats.github.io/the-source/en/)** · [Lire en français](https://c0sm0cats.github.io/the-source/)
-
-<br clear="right">
-
-## 🎮 Side project
-
-<a href="https://c0sm0cats.github.io/naorush/"><img src="https://raw.githubusercontent.com/C0sm0cats/naorush/main/docs/title.jpg" alt="NAO Rush title screen" width="420" align="right"></a>
-
-**[NAO Rush](https://github.com/C0sm0cats/naorush)** — a 2D browser platformer set in Inetum's offices, Rick Dangerous / Prince of Persia style: cross five stages, convince the directors, get the raise envelope signed. WebGL2, no engine dependency, PC/tablet/mobile.
-
-**[▶️ Play now](https://c0sm0cats.github.io/naorush/)**
-
-<br clear="right">
-
-## Stack
-
-`Linux` · `Docker` · `Python` · `JavaScript` · `Bash` · `GNOME` · `Qt` · `Playwright` · `GitHub Actions`
+<p align="center"><img src="https://skillicons.dev/icons?i=linux,windows,docker,py,js,bash,qt,githubactions&perline=8" alt="Linux · Windows · Docker · Python · JavaScript · Bash · Qt · GitHub Actions"></p>
 
 <p align="center"><sub>⭐ Find something useful? A star helps others discover it.</sub></p>
