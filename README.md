@@ -49,7 +49,7 @@
 </tr>
 </table>
 
-## ◢ Side project
+## ◢ Game
 
 <table>
 <tr>
