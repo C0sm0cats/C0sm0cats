@@ -11,7 +11,7 @@ OWNER = "C0sm0cats"
 REPOS = {  # repo -> value colour (readable with white text)
     "SnapTess": "#0e7490", "SmartGrid": "#0e7490",
     "GMAIL": "#6d28d9", "GDRIVE": "#6d28d9",
-    "lethe": "#a21caf", "the-source": "#a21caf",
+    "lethe": "#1d4ed8", "the-source": "#a21caf",
     "naorush": "#047857",
 }
 LABEL_BG = "#0d1424"
