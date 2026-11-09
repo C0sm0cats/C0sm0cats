@@ -5,8 +5,6 @@
   </picture>
 </a>
 
-<br>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/window-dark.svg"><img src="assets/sections/window-light.svg" alt="Window management" width="100%"></picture>
 
 <p>
@@ -22,8 +20,6 @@
 <a href="https://github.com/C0sm0cats/SmartGrid/releases/latest"><img src="assets/badges/SmartGrid-release.svg" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/SmartGrid/commits"><img src="assets/badges/SmartGrid-updated.svg" alt="Last update"></a><br><br>Automatic tiling window manager for <strong>Windows 10/11</strong> — a FancyZones alternative. Layout studio, custom grids, snap &amp; swap, virtual desktops, global hotkeys.<br><br><code>Python</code> · <code>Qt</code> · <code>Win32</code>
 </p>
 <br clear="all">
-
-<br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/workspace-dark.svg"><img src="assets/sections/workspace-light.svg" alt="Terminal tools for Google Workspace" width="100%"></picture>
 
@@ -41,8 +37,6 @@
 </p>
 <br clear="all">
 
-<br>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/ai-dark.svg"><img src="assets/sections/ai-light.svg" alt="AI coding agents" width="100%"></picture>
 
 <p>
@@ -51,8 +45,6 @@
 <a href="https://github.com/C0sm0cats/lethe/releases/latest"><img src="assets/badges/lethe-release.svg" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/lethe/commits"><img src="assets/badges/lethe-updated.svg" alt="Last update"></a><br><br><strong>Browse, resume and forget your Claude Code and Codex sessions</strong> from one terminal picker. Live preview, resume in the original directory, bulk cleanup with undo; running sessions are never touched. Scriptable with <code>--json</code>, <code>--dry-run</code> and cron.<br><br><code>Bash</code> · <code>fzf</code> · <code>Claude Code</code> · <code>Codex</code>
 </p>
 <br clear="all">
-
-<br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/writing-dark.svg"><img src="assets/sections/writing-light.svg" alt="Writing" width="100%"></picture>
 
@@ -63,8 +55,6 @@
 </p>
 <br clear="all">
 
-<br>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/game-dark.svg"><img src="assets/sections/game-light.svg" alt="Game" width="100%"></picture>
 
 <p>
@@ -74,15 +64,11 @@
 </p>
 <br clear="all">
 
-<br>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/activity-dark.svg"><img src="assets/sections/activity-light.svg" alt="Activity" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg"><img src="assets/live/activity-light.svg" alt="Latest commits and releases across my projects" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg"><img src="assets/live/contrib-light.svg" alt="Contribution calendar for the last year" width="100%"></picture>
-
-<br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/stack-dark.svg"><img src="assets/sections/stack-light.svg" alt="Stack" width="100%"></picture>
 
