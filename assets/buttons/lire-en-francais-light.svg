@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 249 46" width="249" height="46" role="img" aria-label="Lire en français">
+  <defs>
+    <linearGradient id="bglirel" x1="0" x2="1"><stop offset="0" stop-color="#f7f9fc"/><stop offset="1" stop-color="#eef2f9"/></linearGradient>
+    <linearGradient id="shlirel" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="cplirel"><rect x="1" y="1" width="247" height="44" rx="22"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="247" height="44" rx="22" fill="url(#bglirel)"/>
+  <rect x="1" y="1" width="247" height="44" rx="22" fill="#a21caf" fill-opacity=".0"/>
+  <g clip-path="url(#cplirel)"><rect x="-80" y="0" width="60" height="46" fill="url(#shlirel)" transform="skewX(-20)"><animate attributeName="x" values="-80;-80;289" keyTimes="0;.6;1" dur="4s" repeatCount="indefinite"/></rect></g>
+  <rect x="1" y="1" width="247" height="44" rx="22" fill="none" stroke="#a21caf" stroke-width="1.5" stroke-opacity="0.7"/>
+  <g transform="translate(22 13)"><circle cx="11" cy="10" r="9" fill="none" stroke="#a21caf" stroke-width="2"/><ellipse cx="11" cy="10" rx="4" ry="9" fill="none" stroke="#a21caf" stroke-width="1.6"/><path d="M2 10 h18" stroke="#a21caf" stroke-width="1.6"/></g>
+  <text x="56" y="29" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="16" font-weight="600" fill="#0f172a">Lire en français</text>
+</svg>

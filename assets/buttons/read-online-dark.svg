@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198 46" width="198" height="46" role="img" aria-label="Read online">
+  <defs>
+    <linearGradient id="bgreadd" x1="0" x2="1"><stop offset="0" stop-color="#0b1120"/><stop offset="1" stop-color="#111a2e"/></linearGradient>
+    <linearGradient id="shreadd" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="cpreadd"><rect x="1" y="1" width="196" height="44" rx="22"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="196" height="44" rx="22" fill="url(#bgreadd)"/>
+  <rect x="1" y="1" width="196" height="44" rx="22" fill="#e879f9" fill-opacity=".16"/>
+  <g clip-path="url(#cpreadd)"><rect x="-80" y="0" width="60" height="46" fill="url(#shreadd)" transform="skewX(-20)"><animate attributeName="x" values="-80;-80;238" keyTimes="0;.6;1" dur="4s" repeatCount="indefinite"/></rect></g>
+  <rect x="1" y="1" width="196" height="44" rx="22" fill="none" stroke="#e879f9" stroke-width="2" stroke-opacity="1"/>
+  <g transform="translate(22 13)"><path d="M0 3 q7-3 12 0 v14 q-5-3-12 0 z M12 3 q5-3 12 0 v14 q-7-3-12 0" fill="none" stroke="#e879f9" stroke-width="2" stroke-linejoin="round"/></g>
+  <text x="56" y="29" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="16" font-weight="800" fill="#e879f9">Read online</text>
+</svg>

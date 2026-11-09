@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 56" width="900" height="56" role="img" aria-label="AI coding agents">
+  <defs>
+    <linearGradient id="lnail" x1="0" x2="1"><stop offset="0" stop-color="#a21caf"/><stop offset=".45" stop-color="#6d28d9" stop-opacity=".55"/><stop offset="1" stop-color="#6d28d9" stop-opacity="0"/></linearGradient>
+    <radialGradient id="dotail"><stop offset="0" stop-color="#a21caf"/><stop offset="1" stop-color="#a21caf" stop-opacity="0"/></radialGradient>
+  </defs>
+  <polygon points="2,40 24,18 24,40" fill="#a21caf"/>
+  <text x="36" y="38" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Fira Code',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="25" font-weight="800" fill="#0f172a">AI coding agents</text>
+  <rect x="0" y="50" width="900" height="2" rx="1" fill="url(#lnail)"/>
+  <ellipse cx="0" cy="51" rx="40" ry="3.5" fill="url(#dotail)"><animate attributeName="cx" values="-40;940" dur="4.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0" keyTimes="0;.55;.8" dur="4.5s" repeatCount="indefinite"/></ellipse>
+</svg>

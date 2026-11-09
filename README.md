@@ -5,7 +5,9 @@
   </picture>
 </a>
 
-## ◢ Window management
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/window-dark.svg"><img src="assets/sections/window-light.svg" alt="Window management" width="100%"></picture>
 
 <table>
 <tr>
@@ -18,7 +20,9 @@
 </tr>
 </table>
 
-## ◢ Terminal tools for Google Workspace
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/workspace-dark.svg"><img src="assets/sections/workspace-light.svg" alt="Terminal tools for Google Workspace" width="100%"></picture>
 
 <table>
 <tr>
@@ -31,7 +35,9 @@
 </tr>
 </table>
 
-## ◢ AI coding agents
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/ai-dark.svg"><img src="assets/sections/ai-light.svg" alt="AI coding agents" width="100%"></picture>
 
 <table>
 <tr>
@@ -40,25 +46,40 @@
 </tr>
 </table>
 
-## ◢ Writing
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/writing-dark.svg"><img src="assets/sections/writing-light.svg" alt="Writing" width="100%"></picture>
 
 <table>
 <tr>
-<td width="50%" valign="middle"><a href="https://github.com/C0sm0cats/the-source"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/the-source-dark.svg"><img src="assets/headers/the-source-light.svg" alt="The Source" width="100%"></picture></a><br><br><a href="https://github.com/C0sm0cats/the-source/commits"><img src="assets/badges/the-source-updated.svg" alt="Last update"></a><br><br>A bilingual (FR/EN) vision of <strong>consciousness, infinity and return</strong>, told one idea at a time, each with an interactive generative figure. Also as two illustrated books.<br><br><code>Generative art</code> · <code>FR / EN</code><br><br><strong><a href="https://c0sm0cats.github.io/the-source/en/">📖 Read online</a></strong> · <a href="https://c0sm0cats.github.io/the-source/">Lire en français</a></td>
+<td width="50%" valign="middle"><a href="https://github.com/C0sm0cats/the-source"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/the-source-dark.svg"><img src="assets/headers/the-source-light.svg" alt="The Source" width="100%"></picture></a><br><br><a href="https://github.com/C0sm0cats/the-source/commits"><img src="assets/badges/the-source-updated.svg" alt="Last update"></a><br><br>A bilingual (FR/EN) vision of <strong>consciousness, infinity and return</strong>, told one idea at a time, each with an interactive generative figure. Also as two illustrated books.<br><br><code>Generative art</code> · <code>FR / EN</code><br><br><a href="https://c0sm0cats.github.io/the-source/en/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/read-online-dark.svg"><img src="assets/buttons/read-online-light.svg" alt="Read online" width="149"></picture></a> <a href="https://c0sm0cats.github.io/the-source/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/lire-en-francais-dark.svg"><img src="assets/buttons/lire-en-francais-light.svg" alt="Lire en français" width="187"></picture></a></td>
 <td width="50%" valign="middle"><a href="https://c0sm0cats.github.io/the-source/en/"><img src="https://raw.githubusercontent.com/C0sm0cats/the-source/main/assets/hero.svg" alt="The Source: a burst of coloured light strands radiating from a single origin" width="100%"></a></td>
 </tr>
 </table>
 
-## ◢ Game
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/game-dark.svg"><img src="assets/sections/game-light.svg" alt="Game" width="100%"></picture>
 
 <table>
 <tr>
 <td width="50%" valign="middle"><a href="https://c0sm0cats.github.io/naorush/"><img src="https://raw.githubusercontent.com/C0sm0cats/naorush/main/docs/title.jpg" alt="NAO Rush title screen" width="100%"></a></td>
-<td width="50%" valign="middle"><a href="https://github.com/C0sm0cats/naorush"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/naorush-dark.svg"><img src="assets/headers/naorush-light.svg" alt="NAO Rush" width="100%"></picture></a><br><br><a href="https://github.com/C0sm0cats/naorush/commits"><img src="assets/badges/naorush-updated.svg" alt="Last update"></a><br><br>A <strong>2D browser platformer</strong> set in Inetum's offices, Rick Dangerous / Prince of Persia style: cross five stages, convince the directors, get the raise envelope signed. No engine dependency, PC/tablet/mobile.<br><br><code>JavaScript</code> · <code>WebGL2</code><br><br><strong><a href="https://c0sm0cats.github.io/naorush/">▶️ Play now</a></strong></td>
+<td width="50%" valign="middle"><a href="https://github.com/C0sm0cats/naorush"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/naorush-dark.svg"><img src="assets/headers/naorush-light.svg" alt="NAO Rush" width="100%"></picture></a><br><br><a href="https://github.com/C0sm0cats/naorush/commits"><img src="assets/badges/naorush-updated.svg" alt="Last update"></a><br><br>A <strong>2D browser platformer</strong> set in Inetum's offices, Rick Dangerous / Prince of Persia style: cross five stages, convince the directors, get the raise envelope signed. No engine dependency, PC/tablet/mobile.<br><br><code>JavaScript</code> · <code>WebGL2</code><br><br><a href="https://c0sm0cats.github.io/naorush/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/play-now-dark.svg"><img src="assets/buttons/play-now-light.svg" alt="Play now" width="125"></picture></a></td>
 </tr>
 </table>
 
-## ◢ Stack
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/activity-dark.svg"><img src="assets/sections/activity-light.svg" alt="Activity" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg"><img src="assets/live/activity-light.svg" alt="Latest commits and releases across my projects" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg"><img src="assets/live/contrib-light.svg" alt="Contribution calendar for the last year" width="100%"></picture>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/stack-dark.svg"><img src="assets/sections/stack-light.svg" alt="Stack" width="100%"></picture>
+
 
 <p align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
