@@ -66,7 +66,7 @@ def rel(repo): return ""
 
 P = {
  "snap": dict(repo="SnapTess", name="SnapTess", icon="🐧", color="cyan", img="docs/snaptess-overview-blurred.png", alt="SnapTess tiling windows on GNOME", href=f"{GH}/SnapTess",
-   desc="Automatic window tiling for <strong>GNOME 50 on Wayland</strong>. Grid &amp; split layouts, drag-to-snap, Layout Studio, linked tile resize, keyboard-driven focus and independent spaces per monitor.",
+   desc="Automatic window tiling for <strong>GNOME 50–51 on Wayland</strong>. Grid &amp; split layouts, drag-to-snap, Layout Studio, linked tile resize, keyboard-driven focus and independent spaces per monitor.",
    tags=("GNOME Shell extension", "GJS", "Wayland"), cta=rel("SnapTess")),
  "smart": dict(repo="SmartGrid", name="SmartGrid", icon="🪟", color="cyan", img="docs/smartgrid-overview.png", alt="SmartGrid tiling windows on Windows 11", href=f"{GH}/SmartGrid",
    desc="Automatic tiling window manager for <strong>Windows 10/11</strong> — a FancyZones alternative. Layout studio, custom grids, snap &amp; swap, virtual desktops, global hotkeys.",

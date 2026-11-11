@@ -33,7 +33,7 @@ def icon(kind, a, b):
         return f'<rect x="0" y="8" width="40" height="24" rx="12" {s}/><path d="M10 16 v8 M6 20 h8" {S(b)}/><circle cx="28" cy="17" r="2.2" fill="{a}"/><circle cx="32" cy="23" r="2.2" fill="{b}"/>'
 
 P = [
- ("snaptess", "SnapTess", "GNOME 50 · Wayland tiling", "cyan", "tiles-gnome"),
+ ("snaptess", "SnapTess", "GNOME 50–51 · Wayland tiling", "cyan", "tiles-gnome"),
  ("smartgrid", "SmartGrid", "Windows 10/11 tiling", "cyan", "tiles-win"),
  ("gmail", "GMAIL", "Gmail in your terminal", "violet", "mail"),
  ("gdrive", "GDRIVE", "Google Drive sync TUI", "violet", "folder"),

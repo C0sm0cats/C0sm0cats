@@ -10,7 +10,7 @@
 <p>
 <a href="https://github.com/C0sm0cats/SnapTess"><img src="https://raw.githubusercontent.com/C0sm0cats/SnapTess/main/docs/snaptess-overview-blurred.png" alt="SnapTess tiling windows on GNOME" width="47%" align="left"></a>
 <a href="https://github.com/C0sm0cats/SnapTess"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/snaptess-dark.svg"><img src="assets/headers/snaptess-light.svg" alt="SnapTess" width="46%"></picture></a><br><br>
-<a href="https://github.com/C0sm0cats/SnapTess/releases/latest"><img src="assets/badges/SnapTess-release.svg" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/SnapTess/commits"><img src="assets/badges/SnapTess-updated.svg" alt="Last update"></a><br><br>Automatic window tiling for <strong>GNOME 50 on Wayland</strong>. Grid &amp; split layouts, drag-to-snap, Layout Studio, linked tile resize, keyboard-driven focus and independent spaces per monitor.<br><br><code>GNOME Shell extension</code> · <code>GJS</code> · <code>Wayland</code>
+<a href="https://github.com/C0sm0cats/SnapTess/releases/latest"><img src="assets/badges/SnapTess-release.svg" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/SnapTess/commits"><img src="assets/badges/SnapTess-updated.svg" alt="Last update"></a><br><br>Automatic window tiling for <strong>GNOME 50–51 on Wayland</strong>. Grid &amp; split layouts, drag-to-snap, Layout Studio, linked tile resize, keyboard-driven focus and independent spaces per monitor.<br><br><code>GNOME Shell extension</code> · <code>GJS</code> · <code>Wayland</code>
 </p>
 <br clear="all">
 
