@@ -5,6 +5,12 @@ GH = "https://github.com/C0sm0cats"
 RAW = "https://raw.githubusercontent.com/C0sm0cats"
 SH = "https://img.shields.io"
 ST = "style=flat-square&labelColor=0d1424"
+import hashlib
+
+def v(path):
+    """Content hash query so browsers refetch a changed asset."""
+    return path + "?v=" + hashlib.sha1(open(path, "rb").read()).hexdigest()[:8]
+
 COL = dict(cyan="0e7490", violet="6d28d9", magenta="a21caf", green="047857", blue="1d4ed8")
 
 def badges(repo, color, release=True):
@@ -26,8 +32,8 @@ def image(p, width="100%"):
 def title(p):
     k = p["repo"].lower()
     return (f'<a href="{GH}/{p["repo"]}"><picture>'
-            f'<source media="(prefers-color-scheme: dark)" srcset="assets/headers/{k}-dark.svg">'
-            f'<img src="assets/headers/{k}-light.svg" alt="{p["name"]}" width="100%"></picture></a>')
+            f'<source media="(prefers-color-scheme: dark)" srcset="{v(f'assets/headers/{k}-dark.svg')}">'
+            f'<img src="{v(f'assets/headers/{k}-light.svg')}" alt="{p["name"]}" width="100%"></picture></a>')
 
 def pic(base, alt, width=None):
     w = f' width="{width}"' if width else ""
@@ -52,8 +58,8 @@ def block(p):
            f'width="47%" align="{side}"></a>')
     k = p["repo"].lower()
     head = (f'<a href="{GH}/{p["repo"]}"><picture>'
-            f'<source media="(prefers-color-scheme: dark)" srcset="assets/headers/{k}-dark.svg">'
-            f'<img src="assets/headers/{k}-light.svg" alt="{p["name"]}" width="46%"></picture></a>')
+            f'<source media="(prefers-color-scheme: dark)" srcset="{v(f'assets/headers/{k}-dark.svg')}">'
+            f'<img src="{v(f'assets/headers/{k}-light.svg')}" alt="{p["name"]}" width="46%"></picture></a>')
     return f'<p>\n{img}\n{head}<br><br>\n{body(p)}\n</p>\n<br clear="all">\n'
 
 def pair(section, a, b):
