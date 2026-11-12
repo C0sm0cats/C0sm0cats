@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="127" height="20" role="img" aria-label="updated: yesterday">
-  <title>updated: yesterday</title>
-  <rect width="58" height="20" fill="#0d1424"/><rect x="58" width="69" height="20" fill="#6d28d9"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="20" role="img" aria-label="updated: 2 days ago">
+  <title>updated: 2 days ago</title>
+  <rect width="58" height="20" fill="#0d1424"/><rect x="58" width="76" height="20" fill="#6d28d9"/>
   <g fill="#fff" font-family="Verdana,Geneva,'DejaVu Sans',sans-serif" font-size="11" text-rendering="geometricPrecision">
     <text x="6" y="14" textLength="46" lengthAdjust="spacingAndGlyphs">updated</text>
-    <text x="64" y="14" textLength="57" lengthAdjust="spacingAndGlyphs">yesterday</text>
+    <text x="64" y="14" textLength="64" lengthAdjust="spacingAndGlyphs">2 days ago</text>
   </g>
 </svg>
