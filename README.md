@@ -1,7 +1,7 @@
 <a href="https://github.com/C0sm0cats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" alt="C0sm0cats — DevOps engineer building open-source tiling window managers and terminal tools for Linux and Windows" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=9587572b">
+    <img src="assets/banner-light.svg?v=72b53ac0" alt="C0sm0cats — DevOps engineer building open-source tiling window managers and terminal tools for Linux and Windows" width="100%">
   </picture>
 </a>
 
@@ -74,15 +74,15 @@
 
 
 <p align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" alt="Linux · Windows · Docker · Python · JavaScript · Bash · Qt · GitHub Actions">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=1bc0f016">
+  <img src="assets/stack-light.svg?v=ce8b0994" alt="Linux · Windows · Docker · Python · JavaScript · Bash · Qt · GitHub Actions">
 </picture></p>
 
 <br>
 
 <a href="https://github.com/C0sm0cats?tab=repositories">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-    <img src="assets/footer-light.svg" alt="Thanks for stopping by — find something useful? A star helps others discover it." width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg?v=3c12bcea">
+    <img src="assets/footer-light.svg?v=02cc3ba4" alt="Thanks for stopping by — find something useful? A star helps others discover it." width="100%">
   </picture>
 </a>

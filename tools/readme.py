@@ -96,8 +96,8 @@ P = {
 
 out = f'''<a href="{GH}">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" alt="C0sm0cats — DevOps engineer building open-source tiling window managers and terminal tools for Linux and Windows" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="{v('assets/banner-dark.svg')}">
+    <img src="{v('assets/banner-light.svg')}" alt="C0sm0cats — DevOps engineer building open-source tiling window managers and terminal tools for Linux and Windows" width="100%">
   </picture>
 </a>
 
@@ -112,16 +112,16 @@ out = f'''<a href="{GH}">
 
 {heading("Stack")}
 <p align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" alt="Linux · Windows · Docker · Python · JavaScript · Bash · Qt · GitHub Actions">
+  <source media="(prefers-color-scheme: dark)" srcset="{v('assets/stack-dark.svg')}">
+  <img src="{v('assets/stack-light.svg')}" alt="Linux · Windows · Docker · Python · JavaScript · Bash · Qt · GitHub Actions">
 </picture></p>
 
 <br>
 
 <a href="{GH}?tab=repositories">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-    <img src="assets/footer-light.svg" alt="Thanks for stopping by — find something useful? A star helps others discover it." width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="{v('assets/footer-dark.svg')}">
+    <img src="{v('assets/footer-light.svg')}" alt="Thanks for stopping by — find something useful? A star helps others discover it." width="100%">
   </picture>
 </a>
 '''
