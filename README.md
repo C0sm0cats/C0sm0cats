@@ -17,7 +17,7 @@
 <p>
 <a href="https://github.com/C0sm0cats/SmartGrid"><img src="https://raw.githubusercontent.com/C0sm0cats/SmartGrid/main/docs/smartgrid-overview.png" alt="SmartGrid tiling windows on Windows 11" width="47%" align="right"></a>
 <a href="https://github.com/C0sm0cats/SmartGrid"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/smartgrid-dark.svg?v=4c033e9f"><img src="assets/headers/smartgrid-light.svg?v=3682747c" alt="SmartGrid" width="46%"></picture></a><br><br>
-<a href="https://github.com/C0sm0cats/SmartGrid/releases/latest"><img src="assets/badges/SmartGrid-release.svg?v=d0c6d703" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/SmartGrid/commits"><img src="assets/badges/SmartGrid-updated.svg?v=94cd7634" alt="Last update"></a><br><br>Automatic tiling window manager for <strong>Windows 10/11</strong> — a FancyZones alternative. Layout studio, custom grids, snap &amp; swap, virtual desktops, global hotkeys.<br><br><code>Python</code> · <code>Qt</code> · <code>Win32</code>
+<a href="https://github.com/C0sm0cats/SmartGrid/releases/latest"><img src="assets/badges/SmartGrid-release.svg?v=1265221c" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/SmartGrid/commits"><img src="assets/badges/SmartGrid-updated.svg?v=94cd7634" alt="Last update"></a><br><br>Automatic tiling window manager for <strong>Windows 10/11</strong> — a FancyZones alternative. Layout studio, custom grids, snap &amp; swap, virtual desktops, global hotkeys.<br><br><code>Python</code> · <code>Qt</code> · <code>Win32</code>
 </p>
 <br clear="all">
 
@@ -66,7 +66,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/activity-dark.svg?v=b9e747d2"><img src="assets/sections/activity-light.svg?v=ba0b3f87" alt="Activity" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg?v=685c7c0f"><img src="assets/live/activity-light.svg?v=40e2929f" alt="Latest commits and releases across my projects" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg?v=92884b92"><img src="assets/live/activity-light.svg?v=b9d2459f" alt="Latest commits and releases across my projects" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg?v=8f1d2aaf"><img src="assets/live/contrib-light.svg?v=f6840b08" alt="Contribution calendar for the last year" width="100%"></picture>
 
