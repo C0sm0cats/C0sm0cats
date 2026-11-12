@@ -16,8 +16,8 @@ COL = dict(cyan="0e7490", violet="6d28d9", magenta="a21caf", green="047857", blu
 def badges(repo, color, release=True):
     c = COL[color]; b = []
     if release:
-        b.append(f'<a href="{GH}/{repo}/releases/latest"><img src="assets/badges/{repo}-release.svg" alt="Latest release"></a>')
-    b.append(f'<a href="{GH}/{repo}/commits"><img src="assets/badges/{repo}-updated.svg" alt="Last update"></a>')
+        b.append(f'<a href="{GH}/{repo}/releases/latest"><img src="{v(f'assets/badges/{repo}-release.svg')}" alt="Latest release"></a>')
+    b.append(f'<a href="{GH}/{repo}/commits"><img src="{v(f'assets/badges/{repo}-updated.svg')}" alt="Last update"></a>')
     return " ".join(b)
 
 def tags(*t): return " · ".join(f"<code>{x}</code>" for x in t)
@@ -37,8 +37,8 @@ def title(p):
 
 def pic(base, alt, width=None):
     w = f' width="{width}"' if width else ""
-    return (f'<picture><source media="(prefers-color-scheme: dark)" srcset="{base}-dark.svg">'
-            f'<img src="{base}-light.svg" alt="{alt}"{w}></picture>')
+    return (f'<picture><source media="(prefers-color-scheme: dark)" srcset="{v(f'{base}-dark.svg')}">'
+            f'<img src="{v(f'{base}-light.svg')}" alt="{alt}"{w}></picture>')
 
 SECTIONS = {"Window management": "window", "Terminal tools for Google Workspace": "workspace", "AI coding agents": "ai",
             "Writing": "writing", "Game": "game", "Activity": "activity", "Stack": "stack"}
