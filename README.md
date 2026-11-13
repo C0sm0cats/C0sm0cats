@@ -10,7 +10,7 @@
 <p>
 <a href="https://github.com/C0sm0cats/SnapTess"><img src="https://raw.githubusercontent.com/C0sm0cats/SnapTess/main/docs/snaptess-overview-blurred.png" alt="SnapTess tiling windows on GNOME" width="47%" align="left"></a>
 <a href="https://github.com/C0sm0cats/SnapTess"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/snaptess-dark.svg?v=511d52dd"><img src="assets/headers/snaptess-light.svg?v=6ad50b8d" alt="SnapTess" width="46%"></picture></a><br><br>
-<a href="https://github.com/C0sm0cats/SnapTess/releases/latest"><img src="assets/badges/SnapTess-release.svg?v=460dd66f" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/SnapTess/commits"><img src="assets/badges/SnapTess-updated.svg?v=94cd7634" alt="Last update"></a><br><br>Automatic window tiling for <strong>GNOME 50–51 on Wayland</strong>. Grid &amp; split layouts, drag-to-snap, Layout Studio, linked tile resize, keyboard-driven focus and independent spaces per monitor.<br><br><code>GNOME Shell extension</code> · <code>GJS</code> · <code>Wayland</code>
+<a href="https://github.com/C0sm0cats/SnapTess/releases/latest"><img src="assets/badges/SnapTess-release.svg?v=cd5ec962" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/SnapTess/commits"><img src="assets/badges/SnapTess-updated.svg?v=94cd7634" alt="Last update"></a><br><br>Automatic window tiling for <strong>GNOME 50–51 on Wayland</strong>. Grid &amp; split layouts, drag-to-snap, Layout Studio, linked tile resize, keyboard-driven focus and independent spaces per monitor.<br><br><code>GNOME Shell extension</code> · <code>GJS</code> · <code>Wayland</code>
 </p>
 <br clear="all">
 
@@ -66,9 +66,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/activity-dark.svg?v=b9e747d2"><img src="assets/sections/activity-light.svg?v=ba0b3f87" alt="Activity" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg?v=faf98334"><img src="assets/live/activity-light.svg?v=d3e5f65b" alt="Latest commits and releases across my projects" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg?v=ed1ed5d2"><img src="assets/live/activity-light.svg?v=123e63d0" alt="Latest commits and releases across my projects" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg?v=66682339"><img src="assets/live/contrib-light.svg?v=a94dd222" alt="Contribution calendar for the last year" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg?v=ab05ccec"><img src="assets/live/contrib-light.svg?v=b01f1c88" alt="Contribution calendar for the last year" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/stack-dark.svg?v=798109b1"><img src="assets/sections/stack-light.svg?v=ea31dd8c" alt="Stack" width="100%"></picture>
 
