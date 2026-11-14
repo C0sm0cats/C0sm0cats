@@ -33,7 +33,7 @@
 <p>
 <a href="https://github.com/C0sm0cats/GDRIVE"><img src="https://raw.githubusercontent.com/C0sm0cats/GDRIVE/main/docs/screenshot.svg" alt="GDRIVE terminal UI" width="47%" align="right"></a>
 <a href="https://github.com/C0sm0cats/GDRIVE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/gdrive-dark.svg?v=0281495d"><img src="assets/headers/gdrive-light.svg?v=9a955c5c" alt="GDRIVE" width="46%"></picture></a><br><br>
-<a href="https://github.com/C0sm0cats/GDRIVE/releases/latest"><img src="assets/badges/GDRIVE-release.svg?v=545eb7d8" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/GDRIVE/commits"><img src="assets/badges/GDRIVE-updated.svg?v=7116b9b7" alt="Last update"></a><br><br><strong>Google Drive in your terminal.</strong> Two-way sync of the folders you pick across My Drive, shared items and shared drives, preview every change on both sides, then sync safely: conflicts kept, deletions to the trash, Docs/Sheets/Slides export.<br><br><code>Python</code> · <code>TUI</code> · <code>Textual</code> · <code>Drive API</code>
+<a href="https://github.com/C0sm0cats/GDRIVE/releases/latest"><img src="assets/badges/GDRIVE-release.svg?v=5dcc97ad" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/GDRIVE/commits"><img src="assets/badges/GDRIVE-updated.svg?v=84109448" alt="Last update"></a><br><br><strong>Google Drive in your terminal.</strong> Two-way sync of the folders you pick across My Drive, shared items and shared drives, preview every change on both sides, then sync safely: conflicts kept, deletions to the trash, Docs/Sheets/Slides export.<br><br><code>Python</code> · <code>TUI</code> · <code>Textual</code> · <code>Drive API</code>
 </p>
 <br clear="all">
 
@@ -66,9 +66,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/activity-dark.svg?v=b9e747d2"><img src="assets/sections/activity-light.svg?v=ba0b3f87" alt="Activity" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg?v=052f529f"><img src="assets/live/activity-light.svg?v=6d3e0d43" alt="Latest commits and releases across my projects" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg?v=0712699a"><img src="assets/live/activity-light.svg?v=fec86eb2" alt="Latest commits and releases across my projects" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg?v=95a6257c"><img src="assets/live/contrib-light.svg?v=4799d19d" alt="Contribution calendar for the last year" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg?v=2907f438"><img src="assets/live/contrib-light.svg?v=b339d6b4" alt="Contribution calendar for the last year" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/stack-dark.svg?v=798109b1"><img src="assets/sections/stack-light.svg?v=ea31dd8c" alt="Stack" width="100%"></picture>
 
