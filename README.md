@@ -10,14 +10,14 @@
 <p>
 <a href="https://github.com/C0sm0cats/SnapTess"><img src="https://raw.githubusercontent.com/C0sm0cats/SnapTess/main/docs/snaptess-overview-blurred.png" alt="SnapTess tiling windows on GNOME" width="47%" align="left"></a>
 <a href="https://github.com/C0sm0cats/SnapTess"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/snaptess-dark.svg?v=511d52dd"><img src="assets/headers/snaptess-light.svg?v=6ad50b8d" alt="SnapTess" width="46%"></picture></a><br><br>
-<a href="https://github.com/C0sm0cats/SnapTess/releases/latest"><img src="assets/badges/SnapTess-release.svg?v=cd5ec962" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/SnapTess/commits"><img src="assets/badges/SnapTess-updated.svg?v=94cd7634" alt="Last update"></a><br><br>Automatic window tiling for <strong>GNOME 50–51 on Wayland</strong>. Grid &amp; split layouts, drag-to-snap, Layout Studio, linked tile resize, keyboard-driven focus and independent spaces per monitor.<br><br><code>GNOME Shell extension</code> · <code>GJS</code> · <code>Wayland</code>
+<a href="https://github.com/C0sm0cats/SnapTess/releases/latest"><img src="assets/badges/SnapTess-release.svg?v=57ec0142" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/SnapTess/commits"><img src="assets/badges/SnapTess-updated.svg?v=94cd7634" alt="Last update"></a><br><br>Automatic window tiling for <strong>GNOME 50–51 on Wayland</strong>. Grid &amp; split layouts, drag-to-snap, Layout Studio, linked tile resize, keyboard-driven focus and independent spaces per monitor.<br><br><code>GNOME Shell extension</code> · <code>GJS</code> · <code>Wayland</code>
 </p>
 <br clear="all">
 
 <p>
 <a href="https://github.com/C0sm0cats/SmartGrid"><img src="https://raw.githubusercontent.com/C0sm0cats/SmartGrid/main/docs/smartgrid-overview.png" alt="SmartGrid tiling windows on Windows 11" width="47%" align="right"></a>
 <a href="https://github.com/C0sm0cats/SmartGrid"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/smartgrid-dark.svg?v=4c033e9f"><img src="assets/headers/smartgrid-light.svg?v=3682747c" alt="SmartGrid" width="46%"></picture></a><br><br>
-<a href="https://github.com/C0sm0cats/SmartGrid/releases/latest"><img src="assets/badges/SmartGrid-release.svg?v=6d1f3d50" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/SmartGrid/commits"><img src="assets/badges/SmartGrid-updated.svg?v=94cd7634" alt="Last update"></a><br><br>Automatic tiling window manager for <strong>Windows 10/11</strong> — a FancyZones alternative. Layout studio, custom grids, snap &amp; swap, virtual desktops, global hotkeys.<br><br><code>Python</code> · <code>Qt</code> · <code>Win32</code>
+<a href="https://github.com/C0sm0cats/SmartGrid/releases/latest"><img src="assets/badges/SmartGrid-release.svg?v=6d1f3d50" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/SmartGrid/commits"><img src="assets/badges/SmartGrid-updated.svg?v=007f9379" alt="Last update"></a><br><br>Automatic tiling window manager for <strong>Windows 10/11</strong> — a FancyZones alternative. Layout studio, custom grids, snap &amp; swap, virtual desktops, global hotkeys.<br><br><code>Python</code> · <code>Qt</code> · <code>Win32</code>
 </p>
 <br clear="all">
 
@@ -26,14 +26,14 @@
 <p>
 <a href="https://github.com/C0sm0cats/GMAIL"><img src="https://raw.githubusercontent.com/C0sm0cats/GMAIL/main/docs/screenshot.svg" alt="GMAIL terminal UI" width="47%" align="left"></a>
 <a href="https://github.com/C0sm0cats/GMAIL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/gmail-dark.svg?v=e063a410"><img src="assets/headers/gmail-light.svg?v=ad4f6a08" alt="GMAIL" width="46%"></picture></a><br><br>
-<a href="https://github.com/C0sm0cats/GMAIL/releases/latest"><img src="assets/badges/GMAIL-release.svg?v=b97f243c" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/GMAIL/commits"><img src="assets/badges/GMAIL-updated.svg?v=84109448" alt="Last update"></a><br><br><strong>Gmail in your terminal.</strong> Browse and triage Inbox, Sent, Spam and Trash (archive, star, undo), and save emails as PDFs with their attachments.<br><br><code>Python</code> · <code>TUI</code> · <code>Gmail API</code> · <code>Playwright</code>
+<a href="https://github.com/C0sm0cats/GMAIL/releases/latest"><img src="assets/badges/GMAIL-release.svg?v=b97f243c" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/GMAIL/commits"><img src="assets/badges/GMAIL-updated.svg?v=0b1dcb48" alt="Last update"></a><br><br><strong>Gmail in your terminal.</strong> Browse and triage Inbox, Sent, Spam and Trash (archive, star, undo), and save emails as PDFs with their attachments.<br><br><code>Python</code> · <code>TUI</code> · <code>Gmail API</code> · <code>Playwright</code>
 </p>
 <br clear="all">
 
 <p>
 <a href="https://github.com/C0sm0cats/GDRIVE"><img src="https://raw.githubusercontent.com/C0sm0cats/GDRIVE/main/docs/screenshot.svg" alt="GDRIVE terminal UI" width="47%" align="right"></a>
 <a href="https://github.com/C0sm0cats/GDRIVE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/gdrive-dark.svg?v=0281495d"><img src="assets/headers/gdrive-light.svg?v=9a955c5c" alt="GDRIVE" width="46%"></picture></a><br><br>
-<a href="https://github.com/C0sm0cats/GDRIVE/releases/latest"><img src="assets/badges/GDRIVE-release.svg?v=545eb7d8" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/GDRIVE/commits"><img src="assets/badges/GDRIVE-updated.svg?v=f477d70a" alt="Last update"></a><br><br><strong>Google Drive in your terminal.</strong> Two-way sync of the folders you pick across My Drive, shared items and shared drives, preview every change on both sides, then sync safely: conflicts kept, deletions to the trash, Docs/Sheets/Slides export.<br><br><code>Python</code> · <code>TUI</code> · <code>Textual</code> · <code>Drive API</code>
+<a href="https://github.com/C0sm0cats/GDRIVE/releases/latest"><img src="assets/badges/GDRIVE-release.svg?v=545eb7d8" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/GDRIVE/commits"><img src="assets/badges/GDRIVE-updated.svg?v=7116b9b7" alt="Last update"></a><br><br><strong>Google Drive in your terminal.</strong> Two-way sync of the folders you pick across My Drive, shared items and shared drives, preview every change on both sides, then sync safely: conflicts kept, deletions to the trash, Docs/Sheets/Slides export.<br><br><code>Python</code> · <code>TUI</code> · <code>Textual</code> · <code>Drive API</code>
 </p>
 <br clear="all">
 
@@ -66,9 +66,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/activity-dark.svg?v=b9e747d2"><img src="assets/sections/activity-light.svg?v=ba0b3f87" alt="Activity" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg?v=20dbf196"><img src="assets/live/activity-light.svg?v=06182dda" alt="Latest commits and releases across my projects" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg?v=052f529f"><img src="assets/live/activity-light.svg?v=6d3e0d43" alt="Latest commits and releases across my projects" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg?v=6eb91538"><img src="assets/live/contrib-light.svg?v=edbd0d75" alt="Contribution calendar for the last year" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg?v=95a6257c"><img src="assets/live/contrib-light.svg?v=4799d19d" alt="Contribution calendar for the last year" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/stack-dark.svg?v=798109b1"><img src="assets/sections/stack-light.svg?v=ea31dd8c" alt="Stack" width="100%"></picture>
 
