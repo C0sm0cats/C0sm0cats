@@ -58,9 +58,12 @@ def typing_svg(th, tx=TX, ty=TY, cw=CW, fs=FS, uid=""):
         series = [(0, 0)] + [(tt, round(n * cw, 1)) for tt, j, n in events if j == i]
         series.sort()
         kt, vals = discrete(series)
-        parts.append(f'''<clipPath id="tc{uid}{i}"><rect x="{px}" y="{ty-24*k:.1f}" height="{34*k:.1f}" width="0">
-      <animate attributeName="width" dur="{TOTAL}s" repeatCount="indefinite" calcMode="discrete" keyTimes="{kt}" values="{vals}"/></rect></clipPath>
-    <text x="{px}" y="{ty}" textLength="{len(p)*cw:.1f}" lengthAdjust="spacing" clip-path="url(#tc{uid}{i})" fill="{th['text']}">{p.replace('&','&amp;')}</text>''')
+        # A nested <svg> clips its content to its own viewport; animating its width
+        # reveals the phrase. WebKit (Safari, iOS) ignores animations inside <clipPath>,
+        # which drew every phrase at once.
+        parts.append(f'''<svg x="{px}" y="{ty-24*k:.1f}" width="0" height="{34*k:.1f}" overflow="hidden">
+      <animate attributeName="width" dur="{TOTAL}s" repeatCount="indefinite" calcMode="discrete" keyTimes="{kt}" values="{vals}"/>
+      <text x="0" y="{24*k:.1f}" textLength="{len(p)*cw:.1f}" lengthAdjust="spacing" fill="{th['text']}">{p.replace('&','&amp;')}</text></svg>''')
     cur = sorted([(tt, round(px + n * cw, 1)) for tt, j, n in events])
     kt, vals = discrete([(0, px)] + cur)
     vals = vals.split(";"); vals[0] = str(px); vals = ";".join(vals)
