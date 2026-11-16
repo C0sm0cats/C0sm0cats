@@ -1,7 +1,7 @@
 <a href="https://github.com/C0sm0cats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=41c066c0">
-    <img src="assets/banner-light.svg?v=a272c961" alt="C0sm0cats — DevOps engineer building open-source tiling window managers and terminal tools for Linux and Windows" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=25901245">
+    <img src="assets/banner-light.svg?v=0eb211bb" alt="C0sm0cats — DevOps engineer building open-source tiling window managers and terminal tools for Linux and Windows" width="100%">
   </picture>
 </a>
 

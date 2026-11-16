@@ -60,10 +60,13 @@ def typing_svg(th, tx=TX, ty=TY, cw=CW, fs=FS, uid=""):
         kt, vals = discrete(series)
         # A nested <svg> clips its content to its own viewport; animating its width
         # reveals the phrase. WebKit (Safari, iOS) ignores animations inside <clipPath>,
-        # which drew every phrase at once.
-        parts.append(f'''<svg x="{px}" y="{ty-24*k:.1f}" width="0" height="{34*k:.1f}" overflow="hidden">
-      <animate attributeName="width" dur="{TOTAL}s" repeatCount="indefinite" calcMode="discrete" keyTimes="{kt}" values="{vals}"/>
-      <text x="0" y="{24*k:.1f}" textLength="{len(p)*cw:.1f}" lengthAdjust="spacing" fill="{th['text']}">{p.replace('&','&amp;')}</text></svg>''')
+        # which drew every phrase at once. The <animate> sits outside the nested <svg>
+        # and targets it by id: WebKit gives each <svg> its own animation clock, and iOS
+        # pauses only the outer one while the image is scrolled away, so an animation
+        # inside the nested <svg> drifted from the cursor.
+        parts.append(f'''<svg id="tp{uid}{i}" x="{px}" y="{ty-24*k:.1f}" width="0" height="{34*k:.1f}" overflow="hidden">
+      <text x="0" y="{24*k:.1f}" textLength="{len(p)*cw:.1f}" lengthAdjust="spacing" fill="{th['text']}">{p.replace('&','&amp;')}</text></svg>
+    <animate href="#tp{uid}{i}" xlink:href="#tp{uid}{i}" attributeName="width" dur="{TOTAL}s" repeatCount="indefinite" calcMode="discrete" keyTimes="{kt}" values="{vals}"/>''')
     cur = sorted([(tt, round(px + n * cw, 1)) for tt, j, n in events])
     kt, vals = discrete([(0, px)] + cur)
     vals = vals.split(";"); vals[0] = str(px); vals = ";".join(vals)
@@ -125,7 +128,7 @@ STARS = [(520, 40, 1.2, 0), (600, 268, 1, 1.3), (690, 30, 1.4, 2.1), (1160, 40, 
 def svg(name):
     th = THEMES[name]; c = th["c"]
     stars = "".join(f'<circle cx="{x}" cy="{y}" r="{r}" fill="{th["star"]}"><animate attributeName="opacity" dur="3.6s" begin="{d}s" repeatCount="indefinite" values=".15;1;.15"/></circle>' for x, y, r, d in STARS)
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="C0sm0cats — DevOps engineer building tiling window managers, terminal tools and AI agent tooling">
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="C0sm0cats — DevOps engineer building tiling window managers, terminal tools and AI agent tooling">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{th['bg0']}"/><stop offset="1" stop-color="{th['bg1']}"/></linearGradient>
     <radialGradient id="g1" cx=".82" cy=".5" r=".45"><stop offset="0" stop-color="{c[1]}" stop-opacity=".22"/><stop offset="1" stop-color="{c[1]}" stop-opacity="0"/></radialGradient>
