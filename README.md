@@ -10,7 +10,7 @@
 <p>
 <a href="https://github.com/C0sm0cats/SnapTess"><img src="https://raw.githubusercontent.com/C0sm0cats/SnapTess/main/docs/snaptess-overview-blurred.png" alt="SnapTess tiling windows on GNOME" width="47%" align="left"></a>
 <a href="https://github.com/C0sm0cats/SnapTess"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/snaptess-dark.svg?v=511d52dd"><img src="assets/headers/snaptess-light.svg?v=6ad50b8d" alt="SnapTess" width="46%"></picture></a><br><br>
-<a href="https://github.com/C0sm0cats/SnapTess/releases/latest"><img src="assets/badges/SnapTess-release.svg?v=57ec0142" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/SnapTess/commits"><img src="assets/badges/SnapTess-updated.svg?v=e873c9e6" alt="Last update"></a><br><br>Automatic window tiling for <strong>GNOME 50–51 on Wayland</strong>. Grid &amp; split layouts, drag-to-snap, Layout Studio, linked tile resize, keyboard-driven focus and independent spaces per monitor.<br><br><code>GNOME Shell extension</code> · <code>GJS</code> · <code>Wayland</code>
+<a href="https://github.com/C0sm0cats/SnapTess/releases/latest"><img src="assets/badges/SnapTess-release.svg?v=778b51c3" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/SnapTess/commits"><img src="assets/badges/SnapTess-updated.svg?v=94cd7634" alt="Last update"></a><br><br>Automatic window tiling for <strong>GNOME 50–51 on Wayland</strong>. Grid &amp; split layouts, drag-to-snap, Layout Studio, linked tile resize, keyboard-driven focus and independent spaces per monitor.<br><br><code>GNOME Shell extension</code> · <code>GJS</code> · <code>Wayland</code>
 </p>
 <br clear="all">
 
@@ -26,7 +26,7 @@
 <p>
 <a href="https://github.com/C0sm0cats/GMAIL"><img src="https://raw.githubusercontent.com/C0sm0cats/GMAIL/main/docs/screenshot.svg" alt="GMAIL terminal UI" width="47%" align="left"></a>
 <a href="https://github.com/C0sm0cats/GMAIL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/gmail-dark.svg?v=e063a410"><img src="assets/headers/gmail-light.svg?v=ad4f6a08" alt="GMAIL" width="46%"></picture></a><br><br>
-<a href="https://github.com/C0sm0cats/GMAIL/releases/latest"><img src="assets/badges/GMAIL-release.svg?v=29d47f49" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/GMAIL/commits"><img src="assets/badges/GMAIL-updated.svg?v=84109448" alt="Last update"></a><br><br><strong>Gmail in your terminal.</strong> Browse and triage Inbox, Sent, Spam and Trash (archive, star, undo), and save emails as PDFs with their attachments.<br><br><code>Python</code> · <code>TUI</code> · <code>Gmail API</code> · <code>Playwright</code>
+<a href="https://github.com/C0sm0cats/GMAIL/releases/latest"><img src="assets/badges/GMAIL-release.svg?v=71843853" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/GMAIL/commits"><img src="assets/badges/GMAIL-updated.svg?v=84109448" alt="Last update"></a><br><br><strong>Gmail in your terminal.</strong> Browse and triage Inbox, Sent, Spam and Trash (archive, star, undo), and save emails as PDFs with their attachments.<br><br><code>Python</code> · <code>TUI</code> · <code>Gmail API</code> · <code>Playwright</code>
 </p>
 <br clear="all">
 
@@ -68,7 +68,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg?v=618de973"><img src="assets/live/activity-light.svg?v=f5556c97" alt="Latest commits and releases across my projects" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg?v=8f2b07ff"><img src="assets/live/contrib-light.svg?v=9180259a" alt="Contribution calendar for the last year" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg?v=c1933cb2"><img src="assets/live/contrib-light.svg?v=cf254829" alt="Contribution calendar for the last year" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/stack-dark.svg?v=798109b1"><img src="assets/sections/stack-light.svg?v=ea31dd8c" alt="Stack" width="100%"></picture>
 
