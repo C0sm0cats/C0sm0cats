@@ -66,9 +66,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/activity-dark.svg?v=b9e747d2"><img src="assets/sections/activity-light.svg?v=ba0b3f87" alt="Activity" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg?v=e65fe22a"><img src="assets/live/activity-light.svg?v=85bd55a1" alt="Latest commits and releases across my projects" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg?v=618de973"><img src="assets/live/activity-light.svg?v=f5556c97" alt="Latest commits and releases across my projects" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg?v=9f60cd28"><img src="assets/live/contrib-light.svg?v=7be73f46" alt="Contribution calendar for the last year" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg?v=8f2b07ff"><img src="assets/live/contrib-light.svg?v=9180259a" alt="Contribution calendar for the last year" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/stack-dark.svg?v=798109b1"><img src="assets/sections/stack-light.svg?v=ea31dd8c" alt="Stack" width="100%"></picture>
 

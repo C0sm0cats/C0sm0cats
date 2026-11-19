@@ -18,10 +18,10 @@ FONT = "ui-monospace,SFMono-Regular,'JetBrains Mono','Fira Code',Menlo,Consolas,
 
 THEMES = {
     "dark": dict(bg0="#070b14", bg1="#0d1424", frame="#26324a", text="#e6edf7", muted="#8b98ad", bar="#0b1120",
-                 acc=["#22d3ee", "#a78bfa", "#e879f9", "#34d399", "#60a5fa"], gold="#fbbf24",
+                 acc=["#22d3ee", "#a78bfa", "#e879f9", "#34d399", "#60a5fa"],
                  levels=["#141c2e", "#0e4f63", "#0891b2", "#8b5cf6", "#e879f9"]),
     "light": dict(bg0="#f7f9fc", bg1="#eef2f9", frame="#c9d2e0", text="#0f172a", muted="#526077", bar="#e9eef6",
-                  acc=["#0e7490", "#6d28d9", "#a21caf", "#047857", "#1d4ed8"], gold="#b45309",
+                  acc=["#0e7490", "#6d28d9", "#a21caf", "#047857", "#1d4ed8"],
                   levels=["#e3e8f1", "#a5e4f0", "#22b8d6", "#8b5cf6", "#c026d3"]),
 }
 
@@ -65,7 +65,7 @@ def events():
             ev.append(dict(t=when(c["commit"]["committer"]["date"]), kind="commit", repo=repo, col=col, text=msg))
         rel = api(f"/repos/{OWNER}/{repo}/releases/latest")
         if rel:
-            ev.append(dict(t=when(rel["published_at"]), kind="release", repo=repo, col=col, text=f"released {rel['tag_name']}"))
+            ev.append(dict(t=when(rel["published_at"]), kind="release", repo=repo, col=col, text=f"released v{rel['tag_name'].lstrip('vV')}"))
     ev.sort(key=lambda e: e["t"], reverse=True)
     picked, per_repo = [], {}
     for e in ev:  # at most two lines per repo so one busy project does not fill the feed
@@ -84,9 +84,9 @@ def mobile_rows(th, ev):
     for i, e in enumerate(ev[:4]):
         y = 104 + i * 60
         a = th["acc"][e["col"]]
-        mark = (f'<polygon points="44,{y-26} 58,{y-4} 30,{y-4}" fill="{th["gold"]}"/>' if e["kind"] == "release"
+        mark = (f'<polygon points="44,{y-27} 56,{y-15} 44,{y-3} 32,{y-15}" fill="{th["acc"][3]}"/>' if e["kind"] == "release"
                 else f'<circle cx="44" cy="{y-12}" r="9" fill="none" stroke="{a}" stroke-width="3.5"/>')
-        col = th["gold"] if e["kind"] == "release" else th["text"]
+        col = th["acc"][3] if e["kind"] == "release" else th["text"]
         out.append(f'{mark}<text x="74" y="{y}" font-size="32" font-weight="700" fill="{a}">{escape(e["repo"])}</text>'
                    f'<text x="296" y="{y}" font-size="32" fill="{col}">{escape(clip(e["text"], 30))}</text>')
     return "".join(out)
@@ -99,9 +99,9 @@ def activity_svg(th, ev, now):
     for i, e in enumerate(ev):
         y = TOP + i * ROW
         a = th["acc"][e["col"]]
-        mark = (f'<polygon points="118,{y-11} 125,{y-1} 111,{y-1}" fill="{th["gold"]}"/>' if e["kind"] == "release"
+        mark = (f'<polygon points="118,{y-11} 124,{y-5} 118,{y+1} 112,{y-5}" fill="{th["acc"][3]}"/>' if e["kind"] == "release"
                 else f'<circle cx="118" cy="{y-5}" r="4" fill="none" stroke="{a}" stroke-width="2"/>')
-        msg_col = th["gold"] if e["kind"] == "release" else th["text"]
+        msg_col = th["acc"][3] if e["kind"] == "release" else th["text"]
         rows.append(
             f'<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="{0.9 + i * 0.22:.2f}s" dur=".25s" fill="freeze"/>'
             f'<text x="32" y="{y}" fill="{th["muted"]}">{e["t"].strftime("%d %b")}</text>{mark}'
