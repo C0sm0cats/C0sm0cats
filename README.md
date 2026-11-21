@@ -42,7 +42,7 @@
 <p>
 <a href="https://github.com/C0sm0cats/lethe"><img src="https://raw.githubusercontent.com/C0sm0cats/lethe/main/docs/demo.svg" alt="lethe picker listing Claude Code and Codex sessions" width="47%" align="left"></a>
 <a href="https://github.com/C0sm0cats/lethe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/lethe-dark.svg?v=4ab59d47"><img src="assets/headers/lethe-light.svg?v=9ac6f558" alt="lethe" width="46%"></picture></a><br><br>
-<a href="https://github.com/C0sm0cats/lethe/releases/latest"><img src="assets/badges/lethe-release.svg?v=54f6cedb" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/lethe/commits"><img src="assets/badges/lethe-updated.svg?v=74a51173" alt="Last update"></a><br><br><strong>Browse, resume and forget your Claude Code and Codex sessions</strong> from one terminal picker. Live preview, resume in the original directory, bulk cleanup with undo; running sessions are never touched. Scriptable with <code>--json</code>, <code>--dry-run</code> and cron.<br><br><code>Bash</code> · <code>fzf</code> · <code>Claude Code</code> · <code>Codex</code>
+<a href="https://github.com/C0sm0cats/lethe/releases/latest"><img src="assets/badges/lethe-release.svg?v=59a92b5b" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/lethe/commits"><img src="assets/badges/lethe-updated.svg?v=74a51173" alt="Last update"></a><br><br><strong>Browse, resume and forget your Claude Code and Codex sessions</strong> from one terminal picker. Live preview, resume in the original directory, bulk cleanup with undo; running sessions are never touched. Scriptable with <code>--json</code>, <code>--dry-run</code> and cron.<br><br><code>Bash</code> · <code>fzf</code> · <code>Claude Code</code> · <code>Codex</code>
 </p>
 <br clear="all">
 
@@ -66,9 +66,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/activity-dark.svg?v=b9e747d2"><img src="assets/sections/activity-light.svg?v=ba0b3f87" alt="Activity" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg?v=aeff08da"><img src="assets/live/activity-light.svg?v=57fdb60c" alt="Latest commits and releases across my projects" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg?v=09acb8c5"><img src="assets/live/activity-light.svg?v=4ccac0cb" alt="Latest commits and releases across my projects" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg?v=642e3e6e"><img src="assets/live/contrib-light.svg?v=8488aa67" alt="Contribution calendar for the last year" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg?v=0a87fe2d"><img src="assets/live/contrib-light.svg?v=6d4a84f6" alt="Contribution calendar for the last year" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/stack-dark.svg?v=798109b1"><img src="assets/sections/stack-light.svg?v=ea31dd8c" alt="Stack" width="100%"></picture>
 
