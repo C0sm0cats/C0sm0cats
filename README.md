@@ -26,7 +26,7 @@
 <p>
 <a href="https://github.com/C0sm0cats/GMAIL"><img src="https://raw.githubusercontent.com/C0sm0cats/GMAIL/main/docs/screenshot.svg" alt="GMAIL terminal UI" width="47%" align="left"></a>
 <a href="https://github.com/C0sm0cats/GMAIL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/gmail-dark.svg?v=e063a410"><img src="assets/headers/gmail-light.svg?v=ad4f6a08" alt="GMAIL" width="46%"></picture></a><br><br>
-<a href="https://github.com/C0sm0cats/GMAIL/releases/latest"><img src="assets/badges/GMAIL-release.svg?v=605d100f" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/GMAIL/commits"><img src="assets/badges/GMAIL-updated.svg?v=84109448" alt="Last update"></a><br><br><strong>Gmail in your terminal.</strong> Browse and triage Inbox, Sent, Spam and Trash (archive, star, undo), and save emails as PDFs with their attachments.<br><br><code>Python</code> · <code>TUI</code> · <code>Gmail API</code> · <code>Playwright</code>
+<a href="https://github.com/C0sm0cats/GMAIL/releases/latest"><img src="assets/badges/GMAIL-release.svg?v=1ed85e61" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/GMAIL/commits"><img src="assets/badges/GMAIL-updated.svg?v=84109448" alt="Last update"></a><br><br><strong>Gmail in your terminal.</strong> Browse and triage Inbox, Sent, Spam and Trash (archive, star, undo), and save emails as PDFs with their attachments.<br><br><code>Python</code> · <code>TUI</code> · <code>Gmail API</code> · <code>Playwright</code>
 </p>
 <br clear="all">
 
@@ -42,7 +42,7 @@
 <p>
 <a href="https://github.com/C0sm0cats/lethe"><img src="https://raw.githubusercontent.com/C0sm0cats/lethe/main/docs/demo.svg" alt="lethe picker listing Claude Code and Codex sessions" width="47%" align="left"></a>
 <a href="https://github.com/C0sm0cats/lethe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/lethe-dark.svg?v=4ab59d47"><img src="assets/headers/lethe-light.svg?v=9ac6f558" alt="lethe" width="46%"></picture></a><br><br>
-<a href="https://github.com/C0sm0cats/lethe/releases/latest"><img src="assets/badges/lethe-release.svg?v=757c1589" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/lethe/commits"><img src="assets/badges/lethe-updated.svg?v=74a51173" alt="Last update"></a><br><br><strong>Browse, resume and forget your Claude Code and Codex sessions</strong> from one terminal picker. Live preview, resume in the original directory, bulk cleanup with undo; running sessions are never touched. Scriptable with <code>--json</code>, <code>--dry-run</code> and cron.<br><br><code>Bash</code> · <code>fzf</code> · <code>Claude Code</code> · <code>Codex</code>
+<a href="https://github.com/C0sm0cats/lethe/releases/latest"><img src="assets/badges/lethe-release.svg?v=24a01f91" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/lethe/commits"><img src="assets/badges/lethe-updated.svg?v=74a51173" alt="Last update"></a><br><br><strong>Browse, resume and forget your Claude Code and Codex sessions</strong> from one terminal picker. Live preview, resume in the original directory, bulk cleanup with undo; running sessions are never touched. Scriptable with <code>--json</code>, <code>--dry-run</code> and cron.<br><br><code>Bash</code> · <code>fzf</code> · <code>Claude Code</code> · <code>Codex</code>
 </p>
 <br clear="all">
 
@@ -66,9 +66,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/activity-dark.svg?v=b9e747d2"><img src="assets/sections/activity-light.svg?v=ba0b3f87" alt="Activity" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg?v=2cfe9498"><img src="assets/live/activity-light.svg?v=feccff0e" alt="Latest commits and releases across my projects" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg?v=8421dd22"><img src="assets/live/activity-light.svg?v=c8366b49" alt="Latest commits and releases across my projects" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg?v=221b33b6"><img src="assets/live/contrib-light.svg?v=6d841c94" alt="Contribution calendar for the last year" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg?v=38fdefd1"><img src="assets/live/contrib-light.svg?v=bd339101" alt="Contribution calendar for the last year" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/stack-dark.svg?v=798109b1"><img src="assets/sections/stack-light.svg?v=ea31dd8c" alt="Stack" width="100%"></picture>
 
