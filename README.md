@@ -26,7 +26,7 @@
 <p>
 <a href="https://github.com/C0sm0cats/GMAIL"><img src="https://raw.githubusercontent.com/C0sm0cats/GMAIL/main/docs/screenshot.svg" alt="GMAIL terminal UI" width="47%" align="left"></a>
 <a href="https://github.com/C0sm0cats/GMAIL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/gmail-dark.svg?v=e063a410"><img src="assets/headers/gmail-light.svg?v=ad4f6a08" alt="GMAIL" width="46%"></picture></a><br><br>
-<a href="https://github.com/C0sm0cats/GMAIL/releases/latest"><img src="assets/badges/GMAIL-release.svg?v=71843853" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/GMAIL/commits"><img src="assets/badges/GMAIL-updated.svg?v=0de0d0b4" alt="Last update"></a><br><br><strong>Gmail in your terminal.</strong> Browse and triage Inbox, Sent, Spam and Trash (archive, star, undo), and save emails as PDFs with their attachments.<br><br><code>Python</code> · <code>TUI</code> · <code>Gmail API</code> · <code>Playwright</code>
+<a href="https://github.com/C0sm0cats/GMAIL/releases/latest"><img src="assets/badges/GMAIL-release.svg?v=605d100f" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/GMAIL/commits"><img src="assets/badges/GMAIL-updated.svg?v=84109448" alt="Last update"></a><br><br><strong>Gmail in your terminal.</strong> Browse and triage Inbox, Sent, Spam and Trash (archive, star, undo), and save emails as PDFs with their attachments.<br><br><code>Python</code> · <code>TUI</code> · <code>Gmail API</code> · <code>Playwright</code>
 </p>
 <br clear="all">
 
@@ -66,9 +66,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/activity-dark.svg?v=b9e747d2"><img src="assets/sections/activity-light.svg?v=ba0b3f87" alt="Activity" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg?v=e21fca82"><img src="assets/live/activity-light.svg?v=1646d383" alt="Latest commits and releases across my projects" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg?v=2cfe9498"><img src="assets/live/activity-light.svg?v=feccff0e" alt="Latest commits and releases across my projects" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg?v=16b8c892"><img src="assets/live/contrib-light.svg?v=c98edd13" alt="Contribution calendar for the last year" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg?v=221b33b6"><img src="assets/live/contrib-light.svg?v=6d841c94" alt="Contribution calendar for the last year" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/stack-dark.svg?v=798109b1"><img src="assets/sections/stack-light.svg?v=ea31dd8c" alt="Stack" width="100%"></picture>
 
