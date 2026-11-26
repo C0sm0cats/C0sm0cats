@@ -10,14 +10,14 @@
 <p>
 <a href="https://github.com/C0sm0cats/SnapTess"><img src="https://raw.githubusercontent.com/C0sm0cats/SnapTess/main/docs/snaptess-overview-blurred.png" alt="SnapTess tiling windows on GNOME" width="47%" align="left"></a>
 <a href="https://github.com/C0sm0cats/SnapTess"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/snaptess-dark.svg?v=511d52dd"><img src="assets/headers/snaptess-light.svg?v=6ad50b8d" alt="SnapTess" width="46%"></picture></a><br><br>
-<a href="https://github.com/C0sm0cats/SnapTess/releases/latest"><img src="assets/badges/SnapTess-release.svg?v=4a31b4ac" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/SnapTess/commits"><img src="assets/badges/SnapTess-updated.svg?v=94cd7634" alt="Last update"></a><br><br>Automatic window tiling for <strong>GNOME 50–51 on Wayland</strong>. Grid &amp; split layouts, drag-to-snap, Layout Studio, linked tile resize, keyboard-driven focus and independent spaces per monitor.<br><br><code>GNOME Shell extension</code> · <code>GJS</code> · <code>Wayland</code>
+<a href="https://github.com/C0sm0cats/SnapTess/releases/latest"><img src="assets/badges/SnapTess-release.svg?v=4422c443" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/SnapTess/commits"><img src="assets/badges/SnapTess-updated.svg?v=94cd7634" alt="Last update"></a><br><br>Automatic window tiling for <strong>GNOME 50–51 on Wayland</strong>. Grid &amp; split layouts, drag-to-snap, Layout Studio, linked tile resize, keyboard-driven focus and independent spaces per monitor.<br><br><code>GNOME Shell extension</code> · <code>GJS</code> · <code>Wayland</code>
 </p>
 <br clear="all">
 
 <p>
 <a href="https://github.com/C0sm0cats/SmartGrid"><img src="https://raw.githubusercontent.com/C0sm0cats/SmartGrid/main/docs/smartgrid-overview.png" alt="SmartGrid tiling windows on Windows 11" width="47%" align="right"></a>
 <a href="https://github.com/C0sm0cats/SmartGrid"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/smartgrid-dark.svg?v=4c033e9f"><img src="assets/headers/smartgrid-light.svg?v=3682747c" alt="SmartGrid" width="46%"></picture></a><br><br>
-<a href="https://github.com/C0sm0cats/SmartGrid/releases/latest"><img src="assets/badges/SmartGrid-release.svg?v=7ba53e9f" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/SmartGrid/commits"><img src="assets/badges/SmartGrid-updated.svg?v=94cd7634" alt="Last update"></a><br><br>Automatic tiling window manager for <strong>Windows 10/11</strong> — a FancyZones alternative. Layout studio, custom grids, snap &amp; swap, virtual desktops, global hotkeys.<br><br><code>Python</code> · <code>Qt</code> · <code>Win32</code>
+<a href="https://github.com/C0sm0cats/SmartGrid/releases/latest"><img src="assets/badges/SmartGrid-release.svg?v=7ba53e9f" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/SmartGrid/commits"><img src="assets/badges/SmartGrid-updated.svg?v=007f9379" alt="Last update"></a><br><br>Automatic tiling window manager for <strong>Windows 10/11</strong> — a FancyZones alternative. Layout studio, custom grids, snap &amp; swap, virtual desktops, global hotkeys.<br><br><code>Python</code> · <code>Qt</code> · <code>Win32</code>
 </p>
 <br clear="all">
 
@@ -26,7 +26,7 @@
 <p>
 <a href="https://github.com/C0sm0cats/GMAIL"><img src="https://raw.githubusercontent.com/C0sm0cats/GMAIL/main/docs/screenshot.svg" alt="GMAIL terminal UI" width="47%" align="left"></a>
 <a href="https://github.com/C0sm0cats/GMAIL"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/gmail-dark.svg?v=e063a410"><img src="assets/headers/gmail-light.svg?v=ad4f6a08" alt="GMAIL" width="46%"></picture></a><br><br>
-<a href="https://github.com/C0sm0cats/GMAIL/releases/latest"><img src="assets/badges/GMAIL-release.svg?v=1ed85e61" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/GMAIL/commits"><img src="assets/badges/GMAIL-updated.svg?v=0de0d0b4" alt="Last update"></a><br><br><strong>Gmail in your terminal.</strong> Browse and triage Inbox, Sent, Spam and Trash (archive, star, undo), and save emails as PDFs with their attachments.<br><br><code>Python</code> · <code>TUI</code> · <code>Gmail API</code> · <code>Playwright</code>
+<a href="https://github.com/C0sm0cats/GMAIL/releases/latest"><img src="assets/badges/GMAIL-release.svg?v=1ed85e61" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/GMAIL/commits"><img src="assets/badges/GMAIL-updated.svg?v=f477d70a" alt="Last update"></a><br><br><strong>Gmail in your terminal.</strong> Browse and triage Inbox, Sent, Spam and Trash (archive, star, undo), and save emails as PDFs with their attachments.<br><br><code>Python</code> · <code>TUI</code> · <code>Gmail API</code> · <code>Playwright</code>
 </p>
 <br clear="all">
 
@@ -42,7 +42,7 @@
 <p>
 <a href="https://github.com/C0sm0cats/lethe"><img src="https://raw.githubusercontent.com/C0sm0cats/lethe/main/docs/demo.svg" alt="lethe picker listing Claude Code and Codex sessions" width="47%" align="left"></a>
 <a href="https://github.com/C0sm0cats/lethe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/lethe-dark.svg?v=4ab59d47"><img src="assets/headers/lethe-light.svg?v=9ac6f558" alt="lethe" width="46%"></picture></a><br><br>
-<a href="https://github.com/C0sm0cats/lethe/releases/latest"><img src="assets/badges/lethe-release.svg?v=24a01f91" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/lethe/commits"><img src="assets/badges/lethe-updated.svg?v=3bee0808" alt="Last update"></a><br><br><strong>Browse, resume and forget your Claude Code and Codex sessions</strong> from one terminal picker. Live preview, resume in the original directory, bulk cleanup with undo; running sessions are never touched. Scriptable with <code>--json</code>, <code>--dry-run</code> and cron.<br><br><code>Bash</code> · <code>fzf</code> · <code>Claude Code</code> · <code>Codex</code>
+<a href="https://github.com/C0sm0cats/lethe/releases/latest"><img src="assets/badges/lethe-release.svg?v=24a01f91" alt="Latest release"></a> <a href="https://github.com/C0sm0cats/lethe/commits"><img src="assets/badges/lethe-updated.svg?v=2d15eee5" alt="Last update"></a><br><br><strong>Browse, resume and forget your Claude Code and Codex sessions</strong> from one terminal picker. Live preview, resume in the original directory, bulk cleanup with undo; running sessions are never touched. Scriptable with <code>--json</code>, <code>--dry-run</code> and cron.<br><br><code>Bash</code> · <code>fzf</code> · <code>Claude Code</code> · <code>Codex</code>
 </p>
 <br clear="all">
 
@@ -60,15 +60,15 @@
 <p>
 <a href="https://c0sm0cats.github.io/naorush/"><img src="https://raw.githubusercontent.com/C0sm0cats/naorush/main/docs/title.jpg" alt="NAO Rush title screen" width="47%" align="left"></a>
 <a href="https://github.com/C0sm0cats/naorush"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/headers/naorush-dark.svg?v=b92c035b"><img src="assets/headers/naorush-light.svg?v=a642fe4f" alt="NAO Rush" width="46%"></picture></a><br><br>
-<a href="https://github.com/C0sm0cats/naorush/commits"><img src="assets/badges/naorush-updated.svg?v=9f9b8f86" alt="Last update"></a><br><br>A <strong>2D browser platformer</strong> set in Inetum's offices, Rick Dangerous / Prince of Persia style: cross five stages, convince the directors, get the raise envelope signed. No engine dependency, PC/tablet/mobile.<br><br><code>JavaScript</code> · <code>WebGL2</code><br><br><a href="https://c0sm0cats.github.io/naorush/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/play-now-dark.svg?v=136c5cba"><img src="assets/buttons/play-now-light.svg?v=1dfbbe10" alt="Play now" width="125"></picture></a>
+<a href="https://github.com/C0sm0cats/naorush/commits"><img src="assets/badges/naorush-updated.svg?v=463c51dc" alt="Last update"></a><br><br>A <strong>2D browser platformer</strong> set in Inetum's offices, Rick Dangerous / Prince of Persia style: cross five stages, convince the directors, get the raise envelope signed. No engine dependency, PC/tablet/mobile.<br><br><code>JavaScript</code> · <code>WebGL2</code><br><br><a href="https://c0sm0cats.github.io/naorush/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/play-now-dark.svg?v=136c5cba"><img src="assets/buttons/play-now-light.svg?v=1dfbbe10" alt="Play now" width="125"></picture></a>
 </p>
 <br clear="all">
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/activity-dark.svg?v=b9e747d2"><img src="assets/sections/activity-light.svg?v=ba0b3f87" alt="Activity" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg?v=7b731d2d"><img src="assets/live/activity-light.svg?v=aa2780ba" alt="Latest commits and releases across my projects" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/activity-dark.svg?v=1727741a"><img src="assets/live/activity-light.svg?v=579db802" alt="Latest commits and releases across my projects" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg?v=a31d7ece"><img src="assets/live/contrib-light.svg?v=decfbed4" alt="Contribution calendar for the last year" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/live/contrib-dark.svg?v=3b9acc48"><img src="assets/live/contrib-light.svg?v=833e6a43" alt="Contribution calendar for the last year" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sections/stack-dark.svg?v=798109b1"><img src="assets/sections/stack-light.svg?v=ea31dd8c" alt="Stack" width="100%"></picture>
 
